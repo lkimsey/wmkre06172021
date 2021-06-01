@@ -1,0 +1,155 @@
+[2021-05-08 00:16:47][notice]Start resizing image id:320
+[2021-05-08 00:16:48][notice]Start resizing image id:320
+[2021-05-08 00:16:48][notice]Start backing up image(s).
+[2021-05-08 00:16:48][notice]Start compressing image d04-Img-Bg-ModernBuilding-black-1-300x133.jpg
+[2021-05-08 00:16:48][notice]Compressing image d04-Img-Bg-ModernBuilding-black-1-300x133.jpg failed. Error:Need login
+[2021-05-08 00:16:48][notice]Start retrying optimization. Count:1
+[2021-05-08 00:16:48][notice]Start compressing image d04-Img-Bg-ModernBuilding-black-1-300x133.jpg
+[2021-05-08 00:16:48][notice]Compressing image d04-Img-Bg-ModernBuilding-black-1-300x133.jpg failed. Error:Need login
+[2021-05-08 00:16:48][notice]Start retrying optimization. Count:2
+[2021-05-08 00:16:48][notice]Start compressing image d04-Img-Bg-ModernBuilding-black-1-300x133.jpg
+[2021-05-08 00:16:48][notice]Compressing image d04-Img-Bg-ModernBuilding-black-1-300x133.jpg failed. Error:Need login
+[2021-05-08 00:16:48][notice]Start retrying optimization. Count:3
+[2021-05-08 00:16:48][error]Compressing image d04-Img-Bg-ModernBuilding-black-1-300x133.jpg failed. Error:Need login
+[2021-05-08 00:16:48][notice]Start backing up image(s).
+[2021-05-08 00:16:48][notice]Start compressing image d04-Img-Bg-ModernBuilding-black-1-300x133.jpg
+[2021-05-08 00:16:48][notice]Compressing image d04-Img-Bg-ModernBuilding-black-1-300x133.jpg failed. Error:Need login
+[2021-05-08 00:16:48][notice]Start retrying optimization. Count:1
+[2021-05-08 00:16:48][notice]Start compressing image d04-Img-Bg-ModernBuilding-black-1-300x133.jpg
+[2021-05-08 00:16:48][notice]Compressing image d04-Img-Bg-ModernBuilding-black-1-300x133.jpg failed. Error:Need login
+[2021-05-08 00:16:48][notice]Start retrying optimization. Count:2
+[2021-05-08 00:16:48][notice]Start compressing image d04-Img-Bg-ModernBuilding-black-1-300x133.jpg
+[2021-05-08 00:16:48][notice]Compressing image d04-Img-Bg-ModernBuilding-black-1-300x133.jpg failed. Error:Need login
+[2021-05-08 00:16:48][notice]Start retrying optimization. Count:3
+[2021-05-08 00:16:48][error]Compressing image d04-Img-Bg-ModernBuilding-black-1-300x133.jpg failed. Error:Need login
+[2021-05-08 01:06:51][notice]Start resizing image id:321
+[2021-05-08 01:06:51][notice]Start resizing image id:321
+[2021-05-08 01:06:51][notice]Start backing up image(s).
+[2021-05-08 01:06:51][notice]Start compressing image pexels-mark-mccammon-2724748-300x200.jpg
+[2021-05-08 01:06:51][notice]Compressing image pexels-mark-mccammon-2724748-300x200.jpg failed. Error:Need login
+[2021-05-08 01:06:51][notice]Start retrying optimization. Count:1
+[2021-05-08 01:06:51][notice]Start compressing image pexels-mark-mccammon-2724748-300x200.jpg
+[2021-05-08 01:06:51][notice]Compressing image pexels-mark-mccammon-2724748-300x200.jpg failed. Error:Need login
+[2021-05-08 01:06:51][notice]Start retrying optimization. Count:2
+[2021-05-08 01:06:51][notice]Start compressing image pexels-mark-mccammon-2724748-300x200.jpg
+[2021-05-08 01:06:51][notice]Compressing image pexels-mark-mccammon-2724748-300x200.jpg failed. Error:Need login
+[2021-05-08 01:06:51][notice]Start retrying optimization. Count:3
+[2021-05-08 01:06:51][error]Compressing image pexels-mark-mccammon-2724748-300x200.jpg failed. Error:Need login
+[2021-05-08 01:06:51][notice]Start backing up image(s).
+[2021-05-08 01:06:51][notice]Start compressing image pexels-mark-mccammon-2724748-300x200.jpg
+[2021-05-08 01:06:51][notice]Compressing image pexels-mark-mccammon-2724748-300x200.jpg failed. Error:Need login
+[2021-05-08 01:06:51][notice]Start retrying optimization. Count:1
+[2021-05-08 01:06:51][notice]Start compressing image pexels-mark-mccammon-2724748-300x200.jpg
+[2021-05-08 01:06:51][notice]Compressing image pexels-mark-mccammon-2724748-300x200.jpg failed. Error:Need login
+[2021-05-08 01:06:51][notice]Start retrying optimization. Count:2
+[2021-05-08 01:06:51][notice]Start compressing image pexels-mark-mccammon-2724748-300x200.jpg
+[2021-05-08 01:06:51][notice]Compressing image pexels-mark-mccammon-2724748-300x200.jpg failed. Error:Need login
+[2021-05-08 01:06:51][notice]Start retrying optimization. Count:3
+[2021-05-08 01:06:51][error]Compressing image pexels-mark-mccammon-2724748-300x200.jpg failed. Error:Need login
+[2021-05-08 01:11:15][notice]Start resizing image id:322
+[2021-05-08 01:11:16][notice]Start resizing image id:322
+[2021-05-08 01:11:16][notice]Start backing up image(s).
+[2021-05-08 01:11:16][notice]Start compressing image pexels-mark-mccammon-2724748-1-300x200.jpg
+[2021-05-08 01:11:16][notice]Compressing image pexels-mark-mccammon-2724748-1-300x200.jpg failed. Error:Need login
+[2021-05-08 01:11:16][notice]Start retrying optimization. Count:1
+[2021-05-08 01:11:16][notice]Start compressing image pexels-mark-mccammon-2724748-1-300x200.jpg
+[2021-05-08 01:11:16][notice]Compressing image pexels-mark-mccammon-2724748-1-300x200.jpg failed. Error:Need login
+[2021-05-08 01:11:16][notice]Start retrying optimization. Count:2
+[2021-05-08 01:11:16][notice]Start compressing image pexels-mark-mccammon-2724748-1-300x200.jpg
+[2021-05-08 01:11:16][notice]Compressing image pexels-mark-mccammon-2724748-1-300x200.jpg failed. Error:Need login
+[2021-05-08 01:11:16][notice]Start retrying optimization. Count:3
+[2021-05-08 01:11:16][error]Compressing image pexels-mark-mccammon-2724748-1-300x200.jpg failed. Error:Need login
+[2021-05-08 01:11:16][notice]Start backing up image(s).
+[2021-05-08 01:11:16][notice]Start compressing image pexels-mark-mccammon-2724748-1-300x200.jpg
+[2021-05-08 01:11:16][notice]Compressing image pexels-mark-mccammon-2724748-1-300x200.jpg failed. Error:Need login
+[2021-05-08 01:11:16][notice]Start retrying optimization. Count:1
+[2021-05-08 01:11:16][notice]Start compressing image pexels-mark-mccammon-2724748-1-300x200.jpg
+[2021-05-08 01:11:16][notice]Compressing image pexels-mark-mccammon-2724748-1-300x200.jpg failed. Error:Need login
+[2021-05-08 01:11:16][notice]Start retrying optimization. Count:2
+[2021-05-08 01:11:16][notice]Start compressing image pexels-mark-mccammon-2724748-1-300x200.jpg
+[2021-05-08 01:11:16][notice]Compressing image pexels-mark-mccammon-2724748-1-300x200.jpg failed. Error:Need login
+[2021-05-08 01:11:16][notice]Start retrying optimization. Count:3
+[2021-05-08 01:11:16][error]Compressing image pexels-mark-mccammon-2724748-1-300x200.jpg failed. Error:Need login
+[2021-05-08 01:12:38][notice]Start resizing image id:323
+[2021-05-08 01:12:38][notice]Start resizing image id:323
+[2021-05-08 01:12:38][notice]Start backing up image(s).
+[2021-05-08 01:12:38][notice]Start compressing image d03-Img-Stairway-300x134.jpg
+[2021-05-08 01:12:38][notice]Compressing image d03-Img-Stairway-300x134.jpg failed. Error:Need login
+[2021-05-08 01:12:38][notice]Start retrying optimization. Count:1
+[2021-05-08 01:12:38][notice]Start compressing image d03-Img-Stairway-300x134.jpg
+[2021-05-08 01:12:38][notice]Compressing image d03-Img-Stairway-300x134.jpg failed. Error:Need login
+[2021-05-08 01:12:38][notice]Start retrying optimization. Count:2
+[2021-05-08 01:12:38][notice]Start compressing image d03-Img-Stairway-300x134.jpg
+[2021-05-08 01:12:38][notice]Compressing image d03-Img-Stairway-300x134.jpg failed. Error:Need login
+[2021-05-08 01:12:38][notice]Start retrying optimization. Count:3
+[2021-05-08 01:12:38][error]Compressing image d03-Img-Stairway-300x134.jpg failed. Error:Need login
+[2021-05-08 01:12:38][notice]Start backing up image(s).
+[2021-05-08 01:12:38][notice]Start compressing image d03-Img-Stairway-300x134.jpg
+[2021-05-08 01:12:38][notice]Compressing image d03-Img-Stairway-300x134.jpg failed. Error:Need login
+[2021-05-08 01:12:38][notice]Start retrying optimization. Count:1
+[2021-05-08 01:12:38][notice]Start compressing image d03-Img-Stairway-300x134.jpg
+[2021-05-08 01:12:38][notice]Compressing image d03-Img-Stairway-300x134.jpg failed. Error:Need login
+[2021-05-08 01:12:38][notice]Start retrying optimization. Count:2
+[2021-05-08 01:12:38][notice]Start compressing image d03-Img-Stairway-300x134.jpg
+[2021-05-08 01:12:38][notice]Compressing image d03-Img-Stairway-300x134.jpg failed. Error:Need login
+[2021-05-08 01:12:38][notice]Start retrying optimization. Count:3
+[2021-05-08 01:12:38][error]Compressing image d03-Img-Stairway-300x134.jpg failed. Error:Need login
+[2021-05-08 14:33:25][notice]Start resizing image id:355
+[2021-05-08 14:33:25][notice]Start resizing image id:355
+[2021-05-08 14:33:25][notice]Start backing up image(s).
+[2021-05-08 14:33:25][notice]Start compressing image pexels-pixabay-279719-300x188.jpg
+[2021-05-08 14:33:25][notice]Compressing image pexels-pixabay-279719-300x188.jpg failed. Error:Need login
+[2021-05-08 14:33:25][notice]Start retrying optimization. Count:1
+[2021-05-08 14:33:25][notice]Start compressing image pexels-pixabay-279719-300x188.jpg
+[2021-05-08 14:33:25][notice]Compressing image pexels-pixabay-279719-300x188.jpg failed. Error:Need login
+[2021-05-08 14:33:25][notice]Start retrying optimization. Count:2
+[2021-05-08 14:33:25][notice]Start compressing image pexels-pixabay-279719-300x188.jpg
+[2021-05-08 14:33:25][notice]Compressing image pexels-pixabay-279719-300x188.jpg failed. Error:Need login
+[2021-05-08 14:33:25][notice]Start retrying optimization. Count:3
+[2021-05-08 14:33:25][error]Compressing image pexels-pixabay-279719-300x188.jpg failed. Error:Need login
+[2021-05-08 14:33:25][notice]Start backing up image(s).
+[2021-05-08 14:33:25][notice]Start compressing image pexels-pixabay-279719-300x188.jpg
+[2021-05-08 14:33:25][notice]Compressing image pexels-pixabay-279719-300x188.jpg failed. Error:Need login
+[2021-05-08 14:33:25][notice]Start retrying optimization. Count:1
+[2021-05-08 14:33:25][notice]Start compressing image pexels-pixabay-279719-300x188.jpg
+[2021-05-08 14:33:25][notice]Compressing image pexels-pixabay-279719-300x188.jpg failed. Error:Need login
+[2021-05-08 14:33:26][notice]Start retrying optimization. Count:2
+[2021-05-08 14:33:26][notice]Start compressing image pexels-pixabay-279719-300x188.jpg
+[2021-05-08 14:33:26][notice]Compressing image pexels-pixabay-279719-300x188.jpg failed. Error:Need login
+[2021-05-08 14:33:26][notice]Start retrying optimization. Count:3
+[2021-05-08 14:33:26][error]Compressing image pexels-pixabay-279719-300x188.jpg failed. Error:Need login
+[2021-05-08 14:34:45][notice]Start resizing image id:356
+[2021-05-08 14:34:45][notice]Start resizing image id:356
+[2021-05-08 14:34:45][notice]Start backing up image(s).
+[2021-05-08 14:34:45][notice]Start compressing image pexels-martin-pechy-1866149-300x225.jpg
+[2021-05-08 14:34:45][notice]Compressing image pexels-martin-pechy-1866149-300x225.jpg failed. Error:Need login
+[2021-05-08 14:34:45][notice]Start retrying optimization. Count:1
+[2021-05-08 14:34:45][notice]Start compressing image pexels-martin-pechy-1866149-300x225.jpg
+[2021-05-08 14:34:46][notice]Compressing image pexels-martin-pechy-1866149-300x225.jpg failed. Error:Need login
+[2021-05-08 14:34:46][notice]Start retrying optimization. Count:2
+[2021-05-08 14:34:46][notice]Start compressing image pexels-martin-pechy-1866149-300x225.jpg
+[2021-05-08 14:34:46][notice]Compressing image pexels-martin-pechy-1866149-300x225.jpg failed. Error:Need login
+[2021-05-08 14:34:46][notice]Start retrying optimization. Count:3
+[2021-05-08 14:34:46][error]Compressing image pexels-martin-pechy-1866149-300x225.jpg failed. Error:Need login
+[2021-05-08 14:34:46][notice]Start backing up image(s).
+[2021-05-08 14:34:46][notice]Start compressing image pexels-martin-pechy-1866149-300x225.jpg
+[2021-05-08 14:34:46][notice]Compressing image pexels-martin-pechy-1866149-300x225.jpg failed. Error:Need login
+[2021-05-08 14:34:46][notice]Start retrying optimization. Count:1
+[2021-05-08 14:34:46][notice]Start compressing image pexels-martin-pechy-1866149-300x225.jpg
+[2021-05-08 14:34:46][notice]Compressing image pexels-martin-pechy-1866149-300x225.jpg failed. Error:Need login
+[2021-05-08 14:34:46][notice]Start retrying optimization. Count:2
+[2021-05-08 14:34:46][notice]Start compressing image pexels-martin-pechy-1866149-300x225.jpg
+[2021-05-08 14:34:46][notice]Compressing image pexels-martin-pechy-1866149-300x225.jpg failed. Error:Need login
+[2021-05-08 14:34:46][notice]Start retrying optimization. Count:3
+[2021-05-08 14:34:46][error]Compressing image pexels-martin-pechy-1866149-300x225.jpg failed. Error:Need login
+[2021-05-08 14:45:55][notice]Start backing up image(s).
+[2021-05-08 14:45:55][notice]Start compressing image pexels-photomix-company-101808-300x200.jpg
+[2021-05-08 14:45:55][notice]Compressing image pexels-photomix-company-101808-300x200.jpg failed. Error:Need login
+[2021-05-08 14:45:55][notice]Start retrying optimization. Count:1
+[2021-05-08 14:45:55][notice]Start compressing image pexels-photomix-company-101808-300x200.jpg
+[2021-05-08 14:45:55][notice]Compressing image pexels-photomix-company-101808-300x200.jpg failed. Error:Need login
+[2021-05-08 14:45:55][notice]Start retrying optimization. Count:2
+[2021-05-08 14:45:55][notice]Start compressing image pexels-photomix-company-101808-300x200.jpg
+[2021-05-08 14:45:55][notice]Compressing image pexels-photomix-company-101808-300x200.jpg failed. Error:Need login
+[2021-05-08 14:45:55][notice]Start retrying optimization. Count:3
+[2021-05-08 14:45:55][error]Compressing image pexels-photomix-company-101808-300x200.jpg failed. Error:Need login

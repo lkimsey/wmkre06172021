@@ -1,0 +1,1364 @@
+====================================================
+open log file: 2021-05-25 00:54:17
+[2021-05-25 00:54:17][notice]Start optimizing image id:523
+[2021-05-25 00:54:17][notice]Start resizing image id:523
+====================================================
+open log file: 2021-05-25 00:54:17
+[2021-05-25 00:54:17][notice]Start optimizing image id:523
+[2021-05-25 00:54:17][notice]Start resizing image id:523
+[2021-05-25 00:54:18][notice]Start backing up image(s).
+[2021-05-25 00:54:18][notice]Start compressing image dji_0592-300x169.jpg
+[2021-05-25 00:54:18][notice]Compressing image dji_0592-300x169.jpg failed. Error:Need login
+[2021-05-25 00:54:18][notice]Start retrying optimization. Count:1
+[2021-05-25 00:54:18][notice]Start compressing image dji_0592-300x169.jpg
+[2021-05-25 00:54:18][notice]Compressing image dji_0592-300x169.jpg failed. Error:Need login
+[2021-05-25 00:54:18][notice]Start retrying optimization. Count:2
+[2021-05-25 00:54:18][notice]Start compressing image dji_0592-300x169.jpg
+[2021-05-25 00:54:18][notice]Compressing image dji_0592-300x169.jpg failed. Error:Need login
+[2021-05-25 00:54:18][notice]Start retrying optimization. Count:3
+[2021-05-25 00:54:18][error]Compressing image dji_0592-300x169.jpg failed. Error:Need login
+[2021-05-25 00:54:18][error]Optimizing image failed. Error:Need login
+[2021-05-25 00:54:18][notice]Start backing up image(s).
+[2021-05-25 00:54:18][notice]Start compressing image dji_0592-300x169.jpg
+[2021-05-25 00:54:18][notice]Compressing image dji_0592-300x169.jpg failed. Error:Need login
+[2021-05-25 00:54:18][notice]Start retrying optimization. Count:1
+[2021-05-25 00:54:18][notice]Start compressing image dji_0592-300x169.jpg
+[2021-05-25 00:54:18][notice]Compressing image dji_0592-300x169.jpg failed. Error:Need login
+[2021-05-25 00:54:18][notice]Start retrying optimization. Count:2
+[2021-05-25 00:54:18][notice]Start compressing image dji_0592-300x169.jpg
+[2021-05-25 00:54:18][notice]Compressing image dji_0592-300x169.jpg failed. Error:Need login
+[2021-05-25 00:54:18][notice]Start retrying optimization. Count:3
+[2021-05-25 00:54:18][error]Compressing image dji_0592-300x169.jpg failed. Error:Need login
+[2021-05-25 00:54:18][error]Optimizing image failed. Error:Need login
+====================================================
+open log file: 2021-05-25 00:54:21
+[2021-05-25 00:54:21][notice]Start optimizing image id:524
+[2021-05-25 00:54:21][notice]Start resizing image id:524
+====================================================
+open log file: 2021-05-25 00:54:21
+[2021-05-25 00:54:21][notice]Start optimizing image id:524
+[2021-05-25 00:54:21][notice]Start resizing image id:524
+[2021-05-25 00:54:21][notice]Start backing up image(s).
+[2021-05-25 00:54:21][notice]Start compressing image dji_0599-1-300x169.jpg
+[2021-05-25 00:54:21][notice]Compressing image dji_0599-1-300x169.jpg failed. Error:Need login
+[2021-05-25 00:54:21][notice]Start retrying optimization. Count:1
+[2021-05-25 00:54:21][notice]Start compressing image dji_0599-1-300x169.jpg
+[2021-05-25 00:54:21][notice]Compressing image dji_0599-1-300x169.jpg failed. Error:Need login
+[2021-05-25 00:54:21][notice]Start retrying optimization. Count:2
+[2021-05-25 00:54:21][notice]Start compressing image dji_0599-1-300x169.jpg
+[2021-05-25 00:54:21][notice]Compressing image dji_0599-1-300x169.jpg failed. Error:Need login
+[2021-05-25 00:54:21][notice]Start retrying optimization. Count:3
+[2021-05-25 00:54:21][error]Compressing image dji_0599-1-300x169.jpg failed. Error:Need login
+[2021-05-25 00:54:21][error]Optimizing image failed. Error:Need login
+[2021-05-25 00:54:21][notice]Start backing up image(s).
+[2021-05-25 00:54:21][notice]Start compressing image dji_0599-1-300x169.jpg
+[2021-05-25 00:54:21][notice]Compressing image dji_0599-1-300x169.jpg failed. Error:Need login
+[2021-05-25 00:54:21][notice]Start retrying optimization. Count:1
+[2021-05-25 00:54:21][notice]Start compressing image dji_0599-1-300x169.jpg
+[2021-05-25 00:54:21][notice]Compressing image dji_0599-1-300x169.jpg failed. Error:Need login
+[2021-05-25 00:54:21][notice]Start retrying optimization. Count:2
+[2021-05-25 00:54:21][notice]Start compressing image dji_0599-1-300x169.jpg
+[2021-05-25 00:54:21][notice]Compressing image dji_0599-1-300x169.jpg failed. Error:Need login
+[2021-05-25 00:54:21][notice]Start retrying optimization. Count:3
+[2021-05-25 00:54:21][error]Compressing image dji_0599-1-300x169.jpg failed. Error:Need login
+[2021-05-25 00:54:21][error]Optimizing image failed. Error:Need login
+====================================================
+open log file: 2021-05-25 00:54:24
+[2021-05-25 00:54:24][notice]Start optimizing image id:525
+[2021-05-25 00:54:24][notice]Start resizing image id:525
+====================================================
+open log file: 2021-05-25 00:54:25
+[2021-05-25 00:54:25][notice]Start optimizing image id:525
+[2021-05-25 00:54:25][notice]Start resizing image id:525
+[2021-05-25 00:54:25][notice]Start backing up image(s).
+[2021-05-25 00:54:25][notice]Start compressing image dji_0600-1-300x169.jpg
+[2021-05-25 00:54:25][notice]Compressing image dji_0600-1-300x169.jpg failed. Error:Need login
+[2021-05-25 00:54:25][notice]Start retrying optimization. Count:1
+[2021-05-25 00:54:25][notice]Start compressing image dji_0600-1-300x169.jpg
+[2021-05-25 00:54:25][notice]Compressing image dji_0600-1-300x169.jpg failed. Error:Need login
+[2021-05-25 00:54:25][notice]Start retrying optimization. Count:2
+[2021-05-25 00:54:25][notice]Start compressing image dji_0600-1-300x169.jpg
+[2021-05-25 00:54:25][notice]Compressing image dji_0600-1-300x169.jpg failed. Error:Need login
+[2021-05-25 00:54:25][notice]Start retrying optimization. Count:3
+[2021-05-25 00:54:25][error]Compressing image dji_0600-1-300x169.jpg failed. Error:Need login
+[2021-05-25 00:54:25][error]Optimizing image failed. Error:Need login
+[2021-05-25 00:54:25][notice]Start backing up image(s).
+[2021-05-25 00:54:25][notice]Start compressing image dji_0600-1-300x169.jpg
+[2021-05-25 00:54:25][notice]Compressing image dji_0600-1-300x169.jpg failed. Error:Need login
+[2021-05-25 00:54:25][notice]Start retrying optimization. Count:1
+[2021-05-25 00:54:25][notice]Start compressing image dji_0600-1-300x169.jpg
+[2021-05-25 00:54:25][notice]Compressing image dji_0600-1-300x169.jpg failed. Error:Need login
+[2021-05-25 00:54:25][notice]Start retrying optimization. Count:2
+[2021-05-25 00:54:25][notice]Start compressing image dji_0600-1-300x169.jpg
+[2021-05-25 00:54:25][notice]Compressing image dji_0600-1-300x169.jpg failed. Error:Need login
+[2021-05-25 00:54:25][notice]Start retrying optimization. Count:3
+[2021-05-25 00:54:25][error]Compressing image dji_0600-1-300x169.jpg failed. Error:Need login
+[2021-05-25 00:54:25][error]Optimizing image failed. Error:Need login
+====================================================
+open log file: 2021-05-25 00:54:28
+[2021-05-25 00:54:28][notice]Start optimizing image id:526
+[2021-05-25 00:54:28][notice]Start resizing image id:526
+====================================================
+open log file: 2021-05-25 00:54:28
+[2021-05-25 00:54:28][notice]Start optimizing image id:526
+[2021-05-25 00:54:28][notice]Start resizing image id:526
+[2021-05-25 00:54:28][notice]Start backing up image(s).
+[2021-05-25 00:54:28][notice]Start compressing image dji_0604-1-300x169.jpg
+[2021-05-25 00:54:28][notice]Compressing image dji_0604-1-300x169.jpg failed. Error:Need login
+[2021-05-25 00:54:28][notice]Start retrying optimization. Count:1
+[2021-05-25 00:54:28][notice]Start compressing image dji_0604-1-300x169.jpg
+[2021-05-25 00:54:28][notice]Compressing image dji_0604-1-300x169.jpg failed. Error:Need login
+[2021-05-25 00:54:28][notice]Start retrying optimization. Count:2
+[2021-05-25 00:54:28][notice]Start compressing image dji_0604-1-300x169.jpg
+[2021-05-25 00:54:28][notice]Compressing image dji_0604-1-300x169.jpg failed. Error:Need login
+[2021-05-25 00:54:28][notice]Start retrying optimization. Count:3
+[2021-05-25 00:54:28][error]Compressing image dji_0604-1-300x169.jpg failed. Error:Need login
+[2021-05-25 00:54:28][error]Optimizing image failed. Error:Need login
+[2021-05-25 00:54:28][notice]Start backing up image(s).
+[2021-05-25 00:54:28][notice]Start compressing image dji_0604-1-300x169.jpg
+[2021-05-25 00:54:28][notice]Compressing image dji_0604-1-300x169.jpg failed. Error:Need login
+[2021-05-25 00:54:28][notice]Start retrying optimization. Count:1
+[2021-05-25 00:54:28][notice]Start compressing image dji_0604-1-300x169.jpg
+[2021-05-25 00:54:28][notice]Compressing image dji_0604-1-300x169.jpg failed. Error:Need login
+[2021-05-25 00:54:28][notice]Start retrying optimization. Count:2
+[2021-05-25 00:54:28][notice]Start compressing image dji_0604-1-300x169.jpg
+[2021-05-25 00:54:28][notice]Compressing image dji_0604-1-300x169.jpg failed. Error:Need login
+[2021-05-25 00:54:28][notice]Start retrying optimization. Count:3
+[2021-05-25 00:54:28][error]Compressing image dji_0604-1-300x169.jpg failed. Error:Need login
+[2021-05-25 00:54:28][error]Optimizing image failed. Error:Need login
+====================================================
+open log file: 2021-05-25 00:54:32
+[2021-05-25 00:54:32][notice]Start optimizing image id:527
+[2021-05-25 00:54:32][notice]Start resizing image id:527
+====================================================
+open log file: 2021-05-25 00:54:32
+[2021-05-25 00:54:32][notice]Start optimizing image id:527
+[2021-05-25 00:54:32][notice]Start resizing image id:527
+[2021-05-25 00:54:32][notice]Start backing up image(s).
+[2021-05-25 00:54:32][notice]Start compressing image DSC_1582-300x200.jpg
+[2021-05-25 00:54:32][notice]Compressing image DSC_1582-300x200.jpg failed. Error:Need login
+[2021-05-25 00:54:32][notice]Start retrying optimization. Count:1
+[2021-05-25 00:54:32][notice]Start compressing image DSC_1582-300x200.jpg
+[2021-05-25 00:54:32][notice]Compressing image DSC_1582-300x200.jpg failed. Error:Need login
+[2021-05-25 00:54:32][notice]Start retrying optimization. Count:2
+[2021-05-25 00:54:32][notice]Start compressing image DSC_1582-300x200.jpg
+[2021-05-25 00:54:32][notice]Compressing image DSC_1582-300x200.jpg failed. Error:Need login
+[2021-05-25 00:54:32][notice]Start retrying optimization. Count:3
+[2021-05-25 00:54:32][error]Compressing image DSC_1582-300x200.jpg failed. Error:Need login
+[2021-05-25 00:54:32][error]Optimizing image failed. Error:Need login
+[2021-05-25 00:54:32][notice]Start backing up image(s).
+[2021-05-25 00:54:32][notice]Start compressing image DSC_1582-300x200.jpg
+[2021-05-25 00:54:32][notice]Compressing image DSC_1582-300x200.jpg failed. Error:Need login
+[2021-05-25 00:54:32][notice]Start retrying optimization. Count:1
+[2021-05-25 00:54:32][notice]Start compressing image DSC_1582-300x200.jpg
+[2021-05-25 00:54:32][notice]Compressing image DSC_1582-300x200.jpg failed. Error:Need login
+[2021-05-25 00:54:32][notice]Start retrying optimization. Count:2
+[2021-05-25 00:54:32][notice]Start compressing image DSC_1582-300x200.jpg
+[2021-05-25 00:54:32][notice]Compressing image DSC_1582-300x200.jpg failed. Error:Need login
+[2021-05-25 00:54:32][notice]Start retrying optimization. Count:3
+[2021-05-25 00:54:32][error]Compressing image DSC_1582-300x200.jpg failed. Error:Need login
+[2021-05-25 00:54:32][error]Optimizing image failed. Error:Need login
+====================================================
+open log file: 2021-05-25 00:54:35
+[2021-05-25 00:54:35][notice]Start optimizing image id:528
+[2021-05-25 00:54:35][notice]Start resizing image id:528
+====================================================
+open log file: 2021-05-25 00:54:36
+[2021-05-25 00:54:36][notice]Start optimizing image id:528
+[2021-05-25 00:54:36][notice]Start resizing image id:528
+[2021-05-25 00:54:36][notice]Start backing up image(s).
+[2021-05-25 00:54:36][notice]Start compressing image DSC_1585-1-300x200.jpg
+[2021-05-25 00:54:36][notice]Compressing image DSC_1585-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:54:36][notice]Start retrying optimization. Count:1
+[2021-05-25 00:54:36][notice]Start compressing image DSC_1585-1-300x200.jpg
+[2021-05-25 00:54:36][notice]Compressing image DSC_1585-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:54:36][notice]Start retrying optimization. Count:2
+[2021-05-25 00:54:36][notice]Start compressing image DSC_1585-1-300x200.jpg
+[2021-05-25 00:54:36][notice]Compressing image DSC_1585-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:54:36][notice]Start retrying optimization. Count:3
+[2021-05-25 00:54:36][error]Compressing image DSC_1585-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:54:36][error]Optimizing image failed. Error:Need login
+[2021-05-25 00:54:36][notice]Start backing up image(s).
+[2021-05-25 00:54:36][notice]Start compressing image DSC_1585-1-300x200.jpg
+[2021-05-25 00:54:36][notice]Compressing image DSC_1585-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:54:36][notice]Start retrying optimization. Count:1
+[2021-05-25 00:54:36][notice]Start compressing image DSC_1585-1-300x200.jpg
+[2021-05-25 00:54:36][notice]Compressing image DSC_1585-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:54:36][notice]Start retrying optimization. Count:2
+[2021-05-25 00:54:36][notice]Start compressing image DSC_1585-1-300x200.jpg
+[2021-05-25 00:54:36][notice]Compressing image DSC_1585-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:54:36][notice]Start retrying optimization. Count:3
+[2021-05-25 00:54:36][error]Compressing image DSC_1585-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:54:36][error]Optimizing image failed. Error:Need login
+====================================================
+open log file: 2021-05-25 00:54:38
+[2021-05-25 00:54:38][notice]Start optimizing image id:529
+[2021-05-25 00:54:38][notice]Start resizing image id:529
+====================================================
+open log file: 2021-05-25 00:54:39
+[2021-05-25 00:54:39][notice]Start optimizing image id:529
+[2021-05-25 00:54:39][notice]Start resizing image id:529
+[2021-05-25 00:54:39][notice]Start backing up image(s).
+[2021-05-25 00:54:39][notice]Start compressing image DSC_1591-1-300x200.jpg
+[2021-05-25 00:54:39][notice]Compressing image DSC_1591-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:54:39][notice]Start retrying optimization. Count:1
+[2021-05-25 00:54:39][notice]Start compressing image DSC_1591-1-300x200.jpg
+[2021-05-25 00:54:39][notice]Compressing image DSC_1591-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:54:39][notice]Start retrying optimization. Count:2
+[2021-05-25 00:54:39][notice]Start compressing image DSC_1591-1-300x200.jpg
+[2021-05-25 00:54:39][notice]Compressing image DSC_1591-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:54:39][notice]Start retrying optimization. Count:3
+[2021-05-25 00:54:39][error]Compressing image DSC_1591-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:54:39][error]Optimizing image failed. Error:Need login
+[2021-05-25 00:54:39][notice]Start backing up image(s).
+[2021-05-25 00:54:39][notice]Start compressing image DSC_1591-1-300x200.jpg
+[2021-05-25 00:54:39][notice]Compressing image DSC_1591-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:54:39][notice]Start retrying optimization. Count:1
+[2021-05-25 00:54:39][notice]Start compressing image DSC_1591-1-300x200.jpg
+[2021-05-25 00:54:39][notice]Compressing image DSC_1591-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:54:39][notice]Start retrying optimization. Count:2
+[2021-05-25 00:54:39][notice]Start compressing image DSC_1591-1-300x200.jpg
+[2021-05-25 00:54:39][notice]Compressing image DSC_1591-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:54:39][notice]Start retrying optimization. Count:3
+[2021-05-25 00:54:39][error]Compressing image DSC_1591-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:54:39][error]Optimizing image failed. Error:Need login
+====================================================
+open log file: 2021-05-25 00:54:41
+[2021-05-25 00:54:41][notice]Start optimizing image id:530
+[2021-05-25 00:54:41][notice]Start resizing image id:530
+====================================================
+open log file: 2021-05-25 00:54:42
+[2021-05-25 00:54:42][notice]Start optimizing image id:530
+[2021-05-25 00:54:42][notice]Start resizing image id:530
+[2021-05-25 00:54:42][notice]Start backing up image(s).
+[2021-05-25 00:54:42][notice]Start compressing image DSC_1592-300x200.jpg
+[2021-05-25 00:54:42][notice]Compressing image DSC_1592-300x200.jpg failed. Error:Need login
+[2021-05-25 00:54:42][notice]Start retrying optimization. Count:1
+[2021-05-25 00:54:42][notice]Start compressing image DSC_1592-300x200.jpg
+[2021-05-25 00:54:42][notice]Compressing image DSC_1592-300x200.jpg failed. Error:Need login
+[2021-05-25 00:54:42][notice]Start retrying optimization. Count:2
+[2021-05-25 00:54:42][notice]Start compressing image DSC_1592-300x200.jpg
+[2021-05-25 00:54:42][notice]Compressing image DSC_1592-300x200.jpg failed. Error:Need login
+[2021-05-25 00:54:42][notice]Start retrying optimization. Count:3
+[2021-05-25 00:54:42][error]Compressing image DSC_1592-300x200.jpg failed. Error:Need login
+[2021-05-25 00:54:42][error]Optimizing image failed. Error:Need login
+[2021-05-25 00:54:42][notice]Start backing up image(s).
+[2021-05-25 00:54:42][notice]Start compressing image DSC_1592-300x200.jpg
+[2021-05-25 00:54:42][notice]Compressing image DSC_1592-300x200.jpg failed. Error:Need login
+[2021-05-25 00:54:42][notice]Start retrying optimization. Count:1
+[2021-05-25 00:54:42][notice]Start compressing image DSC_1592-300x200.jpg
+[2021-05-25 00:54:42][notice]Compressing image DSC_1592-300x200.jpg failed. Error:Need login
+[2021-05-25 00:54:42][notice]Start retrying optimization. Count:2
+[2021-05-25 00:54:42][notice]Start compressing image DSC_1592-300x200.jpg
+[2021-05-25 00:54:42][notice]Compressing image DSC_1592-300x200.jpg failed. Error:Need login
+[2021-05-25 00:54:42][notice]Start retrying optimization. Count:3
+[2021-05-25 00:54:42][error]Compressing image DSC_1592-300x200.jpg failed. Error:Need login
+[2021-05-25 00:54:42][error]Optimizing image failed. Error:Need login
+====================================================
+open log file: 2021-05-25 00:54:44
+[2021-05-25 00:54:44][notice]Start optimizing image id:531
+[2021-05-25 00:54:44][notice]Start resizing image id:531
+====================================================
+open log file: 2021-05-25 00:54:44
+[2021-05-25 00:54:44][notice]Start optimizing image id:531
+[2021-05-25 00:54:44][notice]Start resizing image id:531
+[2021-05-25 00:54:44][notice]Start backing up image(s).
+[2021-05-25 00:54:44][notice]Start compressing image DSC_1595-1-300x200.jpg
+[2021-05-25 00:54:44][notice]Compressing image DSC_1595-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:54:44][notice]Start retrying optimization. Count:1
+[2021-05-25 00:54:44][notice]Start compressing image DSC_1595-1-300x200.jpg
+[2021-05-25 00:54:44][notice]Compressing image DSC_1595-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:54:44][notice]Start retrying optimization. Count:2
+[2021-05-25 00:54:44][notice]Start compressing image DSC_1595-1-300x200.jpg
+[2021-05-25 00:54:44][notice]Compressing image DSC_1595-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:54:44][notice]Start retrying optimization. Count:3
+[2021-05-25 00:54:44][error]Compressing image DSC_1595-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:54:44][error]Optimizing image failed. Error:Need login
+[2021-05-25 00:54:44][notice]Start backing up image(s).
+[2021-05-25 00:54:44][notice]Start compressing image DSC_1595-1-300x200.jpg
+[2021-05-25 00:54:44][notice]Compressing image DSC_1595-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:54:45][notice]Start retrying optimization. Count:1
+[2021-05-25 00:54:45][notice]Start compressing image DSC_1595-1-300x200.jpg
+[2021-05-25 00:54:45][notice]Compressing image DSC_1595-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:54:45][notice]Start retrying optimization. Count:2
+[2021-05-25 00:54:45][notice]Start compressing image DSC_1595-1-300x200.jpg
+[2021-05-25 00:54:45][notice]Compressing image DSC_1595-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:54:45][notice]Start retrying optimization. Count:3
+[2021-05-25 00:54:45][error]Compressing image DSC_1595-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:54:45][error]Optimizing image failed. Error:Need login
+====================================================
+open log file: 2021-05-25 00:54:46
+[2021-05-25 00:54:46][notice]Start optimizing image id:532
+[2021-05-25 00:54:46][notice]Start resizing image id:532
+====================================================
+open log file: 2021-05-25 00:54:47
+[2021-05-25 00:54:47][notice]Start optimizing image id:532
+[2021-05-25 00:54:47][notice]Start resizing image id:532
+[2021-05-25 00:54:47][notice]Start backing up image(s).
+[2021-05-25 00:54:47][notice]Start compressing image DSC_1600-300x200.jpg
+[2021-05-25 00:54:47][notice]Compressing image DSC_1600-300x200.jpg failed. Error:Need login
+[2021-05-25 00:54:47][notice]Start retrying optimization. Count:1
+[2021-05-25 00:54:47][notice]Start compressing image DSC_1600-300x200.jpg
+[2021-05-25 00:54:47][notice]Compressing image DSC_1600-300x200.jpg failed. Error:Need login
+[2021-05-25 00:54:47][notice]Start retrying optimization. Count:2
+[2021-05-25 00:54:47][notice]Start compressing image DSC_1600-300x200.jpg
+[2021-05-25 00:54:47][notice]Compressing image DSC_1600-300x200.jpg failed. Error:Need login
+[2021-05-25 00:54:47][notice]Start retrying optimization. Count:3
+[2021-05-25 00:54:47][error]Compressing image DSC_1600-300x200.jpg failed. Error:Need login
+[2021-05-25 00:54:47][error]Optimizing image failed. Error:Need login
+[2021-05-25 00:54:47][notice]Start backing up image(s).
+[2021-05-25 00:54:47][notice]Start compressing image DSC_1600-300x200.jpg
+[2021-05-25 00:54:47][notice]Compressing image DSC_1600-300x200.jpg failed. Error:Need login
+[2021-05-25 00:54:47][notice]Start retrying optimization. Count:1
+[2021-05-25 00:54:47][notice]Start compressing image DSC_1600-300x200.jpg
+[2021-05-25 00:54:47][notice]Compressing image DSC_1600-300x200.jpg failed. Error:Need login
+[2021-05-25 00:54:47][notice]Start retrying optimization. Count:2
+[2021-05-25 00:54:47][notice]Start compressing image DSC_1600-300x200.jpg
+[2021-05-25 00:54:47][notice]Compressing image DSC_1600-300x200.jpg failed. Error:Need login
+[2021-05-25 00:54:47][notice]Start retrying optimization. Count:3
+[2021-05-25 00:54:47][error]Compressing image DSC_1600-300x200.jpg failed. Error:Need login
+[2021-05-25 00:54:47][error]Optimizing image failed. Error:Need login
+====================================================
+open log file: 2021-05-25 00:54:49
+[2021-05-25 00:54:49][notice]Start optimizing image id:533
+[2021-05-25 00:54:49][notice]Start resizing image id:533
+====================================================
+open log file: 2021-05-25 00:54:49
+[2021-05-25 00:54:49][notice]Start optimizing image id:533
+[2021-05-25 00:54:49][notice]Start resizing image id:533
+[2021-05-25 00:54:49][notice]Start backing up image(s).
+[2021-05-25 00:54:49][notice]Start compressing image DSC_1604-1-300x200.jpg
+[2021-05-25 00:54:49][notice]Compressing image DSC_1604-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:54:49][notice]Start retrying optimization. Count:1
+[2021-05-25 00:54:49][notice]Start compressing image DSC_1604-1-300x200.jpg
+[2021-05-25 00:54:49][notice]Compressing image DSC_1604-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:54:49][notice]Start retrying optimization. Count:2
+[2021-05-25 00:54:49][notice]Start compressing image DSC_1604-1-300x200.jpg
+[2021-05-25 00:54:49][notice]Compressing image DSC_1604-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:54:49][notice]Start retrying optimization. Count:3
+[2021-05-25 00:54:49][error]Compressing image DSC_1604-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:54:49][error]Optimizing image failed. Error:Need login
+[2021-05-25 00:54:49][notice]Start backing up image(s).
+[2021-05-25 00:54:49][notice]Start compressing image DSC_1604-1-300x200.jpg
+[2021-05-25 00:54:49][notice]Compressing image DSC_1604-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:54:49][notice]Start retrying optimization. Count:1
+[2021-05-25 00:54:49][notice]Start compressing image DSC_1604-1-300x200.jpg
+[2021-05-25 00:54:49][notice]Compressing image DSC_1604-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:54:49][notice]Start retrying optimization. Count:2
+[2021-05-25 00:54:49][notice]Start compressing image DSC_1604-1-300x200.jpg
+[2021-05-25 00:54:49][notice]Compressing image DSC_1604-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:54:49][notice]Start retrying optimization. Count:3
+[2021-05-25 00:54:49][error]Compressing image DSC_1604-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:54:49][error]Optimizing image failed. Error:Need login
+====================================================
+open log file: 2021-05-25 00:54:51
+[2021-05-25 00:54:51][notice]Start optimizing image id:534
+[2021-05-25 00:54:51][notice]Start resizing image id:534
+====================================================
+open log file: 2021-05-25 00:54:52
+[2021-05-25 00:54:52][notice]Start optimizing image id:534
+[2021-05-25 00:54:52][notice]Start resizing image id:534
+[2021-05-25 00:54:52][notice]Start backing up image(s).
+[2021-05-25 00:54:52][notice]Start compressing image DSC_1610-1-300x200.jpg
+[2021-05-25 00:54:52][notice]Compressing image DSC_1610-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:54:52][notice]Start retrying optimization. Count:1
+[2021-05-25 00:54:52][notice]Start compressing image DSC_1610-1-300x200.jpg
+[2021-05-25 00:54:52][notice]Compressing image DSC_1610-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:54:52][notice]Start retrying optimization. Count:2
+[2021-05-25 00:54:52][notice]Start compressing image DSC_1610-1-300x200.jpg
+[2021-05-25 00:54:52][notice]Compressing image DSC_1610-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:54:52][notice]Start retrying optimization. Count:3
+[2021-05-25 00:54:52][error]Compressing image DSC_1610-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:54:52][error]Optimizing image failed. Error:Need login
+[2021-05-25 00:54:52][notice]Start backing up image(s).
+[2021-05-25 00:54:52][notice]Start compressing image DSC_1610-1-300x200.jpg
+[2021-05-25 00:54:52][notice]Compressing image DSC_1610-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:54:52][notice]Start retrying optimization. Count:1
+[2021-05-25 00:54:52][notice]Start compressing image DSC_1610-1-300x200.jpg
+[2021-05-25 00:54:52][notice]Compressing image DSC_1610-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:54:52][notice]Start retrying optimization. Count:2
+[2021-05-25 00:54:52][notice]Start compressing image DSC_1610-1-300x200.jpg
+[2021-05-25 00:54:52][notice]Compressing image DSC_1610-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:54:52][notice]Start retrying optimization. Count:3
+[2021-05-25 00:54:52][error]Compressing image DSC_1610-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:54:52][error]Optimizing image failed. Error:Need login
+====================================================
+open log file: 2021-05-25 00:54:54
+[2021-05-25 00:54:54][notice]Start optimizing image id:535
+[2021-05-25 00:54:54][notice]Start resizing image id:535
+====================================================
+open log file: 2021-05-25 00:54:54
+[2021-05-25 00:54:54][notice]Start optimizing image id:535
+[2021-05-25 00:54:54][notice]Start resizing image id:535
+[2021-05-25 00:54:54][notice]Start backing up image(s).
+[2021-05-25 00:54:54][notice]Start compressing image DSC_1611-1-300x200.jpg
+[2021-05-25 00:54:54][notice]Compressing image DSC_1611-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:54:54][notice]Start retrying optimization. Count:1
+[2021-05-25 00:54:54][notice]Start compressing image DSC_1611-1-300x200.jpg
+[2021-05-25 00:54:54][notice]Compressing image DSC_1611-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:54:54][notice]Start retrying optimization. Count:2
+[2021-05-25 00:54:54][notice]Start compressing image DSC_1611-1-300x200.jpg
+[2021-05-25 00:54:54][notice]Compressing image DSC_1611-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:54:54][notice]Start retrying optimization. Count:3
+[2021-05-25 00:54:54][error]Compressing image DSC_1611-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:54:54][error]Optimizing image failed. Error:Need login
+[2021-05-25 00:54:54][notice]Start backing up image(s).
+[2021-05-25 00:54:54][notice]Start compressing image DSC_1611-1-300x200.jpg
+[2021-05-25 00:54:54][notice]Compressing image DSC_1611-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:54:54][notice]Start retrying optimization. Count:1
+[2021-05-25 00:54:54][notice]Start compressing image DSC_1611-1-300x200.jpg
+[2021-05-25 00:54:54][notice]Compressing image DSC_1611-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:54:54][notice]Start retrying optimization. Count:2
+[2021-05-25 00:54:54][notice]Start compressing image DSC_1611-1-300x200.jpg
+[2021-05-25 00:54:54][notice]Compressing image DSC_1611-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:54:54][notice]Start retrying optimization. Count:3
+[2021-05-25 00:54:54][error]Compressing image DSC_1611-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:54:54][error]Optimizing image failed. Error:Need login
+====================================================
+open log file: 2021-05-25 00:54:56
+[2021-05-25 00:54:56][notice]Start optimizing image id:536
+[2021-05-25 00:54:56][notice]Start resizing image id:536
+====================================================
+open log file: 2021-05-25 00:54:57
+[2021-05-25 00:54:57][notice]Start optimizing image id:536
+[2021-05-25 00:54:57][notice]Start resizing image id:536
+[2021-05-25 00:54:57][notice]Start backing up image(s).
+[2021-05-25 00:54:57][notice]Start compressing image DSC_1618-1-300x200.jpg
+[2021-05-25 00:54:57][notice]Compressing image DSC_1618-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:54:57][notice]Start retrying optimization. Count:1
+[2021-05-25 00:54:57][notice]Start compressing image DSC_1618-1-300x200.jpg
+[2021-05-25 00:54:57][notice]Compressing image DSC_1618-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:54:57][notice]Start retrying optimization. Count:2
+[2021-05-25 00:54:57][notice]Start compressing image DSC_1618-1-300x200.jpg
+[2021-05-25 00:54:57][notice]Compressing image DSC_1618-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:54:57][notice]Start retrying optimization. Count:3
+[2021-05-25 00:54:57][error]Compressing image DSC_1618-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:54:57][error]Optimizing image failed. Error:Need login
+[2021-05-25 00:54:57][notice]Start backing up image(s).
+[2021-05-25 00:54:57][notice]Start compressing image DSC_1618-1-300x200.jpg
+[2021-05-25 00:54:57][notice]Compressing image DSC_1618-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:54:57][notice]Start retrying optimization. Count:1
+[2021-05-25 00:54:57][notice]Start compressing image DSC_1618-1-300x200.jpg
+[2021-05-25 00:54:57][notice]Compressing image DSC_1618-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:54:57][notice]Start retrying optimization. Count:2
+[2021-05-25 00:54:57][notice]Start compressing image DSC_1618-1-300x200.jpg
+[2021-05-25 00:54:57][notice]Compressing image DSC_1618-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:54:57][notice]Start retrying optimization. Count:3
+[2021-05-25 00:54:57][error]Compressing image DSC_1618-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:54:57][error]Optimizing image failed. Error:Need login
+====================================================
+open log file: 2021-05-25 00:54:59
+[2021-05-25 00:54:59][notice]Start optimizing image id:537
+[2021-05-25 00:54:59][notice]Start resizing image id:537
+====================================================
+open log file: 2021-05-25 00:55:00
+[2021-05-25 00:55:00][notice]Start optimizing image id:537
+[2021-05-25 00:55:00][notice]Start resizing image id:537
+[2021-05-25 00:55:00][notice]Start backing up image(s).
+[2021-05-25 00:55:00][notice]Start compressing image DSC_1621-1-300x200.jpg
+[2021-05-25 00:55:00][notice]Compressing image DSC_1621-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:00][notice]Start retrying optimization. Count:1
+[2021-05-25 00:55:00][notice]Start compressing image DSC_1621-1-300x200.jpg
+[2021-05-25 00:55:00][notice]Compressing image DSC_1621-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:00][notice]Start retrying optimization. Count:2
+[2021-05-25 00:55:00][notice]Start compressing image DSC_1621-1-300x200.jpg
+[2021-05-25 00:55:00][notice]Compressing image DSC_1621-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:00][notice]Start retrying optimization. Count:3
+[2021-05-25 00:55:00][error]Compressing image DSC_1621-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:00][error]Optimizing image failed. Error:Need login
+[2021-05-25 00:55:00][notice]Start backing up image(s).
+[2021-05-25 00:55:00][notice]Start compressing image DSC_1621-1-300x200.jpg
+[2021-05-25 00:55:00][notice]Compressing image DSC_1621-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:00][notice]Start retrying optimization. Count:1
+[2021-05-25 00:55:00][notice]Start compressing image DSC_1621-1-300x200.jpg
+[2021-05-25 00:55:00][notice]Compressing image DSC_1621-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:00][notice]Start retrying optimization. Count:2
+[2021-05-25 00:55:00][notice]Start compressing image DSC_1621-1-300x200.jpg
+[2021-05-25 00:55:00][notice]Compressing image DSC_1621-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:00][notice]Start retrying optimization. Count:3
+[2021-05-25 00:55:00][error]Compressing image DSC_1621-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:00][error]Optimizing image failed. Error:Need login
+====================================================
+open log file: 2021-05-25 00:55:02
+[2021-05-25 00:55:02][notice]Start optimizing image id:538
+[2021-05-25 00:55:02][notice]Start resizing image id:538
+====================================================
+open log file: 2021-05-25 00:55:02
+[2021-05-25 00:55:02][notice]Start optimizing image id:538
+[2021-05-25 00:55:02][notice]Start resizing image id:538
+[2021-05-25 00:55:03][notice]Start backing up image(s).
+[2021-05-25 00:55:03][notice]Start compressing image DSC_1625-1-300x200.jpg
+[2021-05-25 00:55:03][notice]Compressing image DSC_1625-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:03][notice]Start retrying optimization. Count:1
+[2021-05-25 00:55:03][notice]Start compressing image DSC_1625-1-300x200.jpg
+[2021-05-25 00:55:03][notice]Compressing image DSC_1625-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:03][notice]Start retrying optimization. Count:2
+[2021-05-25 00:55:03][notice]Start compressing image DSC_1625-1-300x200.jpg
+[2021-05-25 00:55:03][notice]Compressing image DSC_1625-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:03][notice]Start retrying optimization. Count:3
+[2021-05-25 00:55:03][error]Compressing image DSC_1625-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:03][error]Optimizing image failed. Error:Need login
+[2021-05-25 00:55:03][notice]Start backing up image(s).
+[2021-05-25 00:55:03][notice]Start compressing image DSC_1625-1-300x200.jpg
+[2021-05-25 00:55:03][notice]Compressing image DSC_1625-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:03][notice]Start retrying optimization. Count:1
+[2021-05-25 00:55:03][notice]Start compressing image DSC_1625-1-300x200.jpg
+[2021-05-25 00:55:03][notice]Compressing image DSC_1625-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:03][notice]Start retrying optimization. Count:2
+[2021-05-25 00:55:03][notice]Start compressing image DSC_1625-1-300x200.jpg
+[2021-05-25 00:55:03][notice]Compressing image DSC_1625-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:03][notice]Start retrying optimization. Count:3
+[2021-05-25 00:55:03][error]Compressing image DSC_1625-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:03][error]Optimizing image failed. Error:Need login
+====================================================
+open log file: 2021-05-25 00:55:05
+[2021-05-25 00:55:05][notice]Start optimizing image id:539
+[2021-05-25 00:55:05][notice]Start resizing image id:539
+====================================================
+open log file: 2021-05-25 00:55:05
+[2021-05-25 00:55:05][notice]Start optimizing image id:539
+[2021-05-25 00:55:06][notice]Start resizing image id:539
+[2021-05-25 00:55:06][notice]Start backing up image(s).
+[2021-05-25 00:55:06][notice]Start compressing image DSC_1628-1-300x200.jpg
+[2021-05-25 00:55:06][notice]Compressing image DSC_1628-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:06][notice]Start retrying optimization. Count:1
+[2021-05-25 00:55:06][notice]Start compressing image DSC_1628-1-300x200.jpg
+[2021-05-25 00:55:06][notice]Compressing image DSC_1628-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:06][notice]Start retrying optimization. Count:2
+[2021-05-25 00:55:06][notice]Start compressing image DSC_1628-1-300x200.jpg
+[2021-05-25 00:55:06][notice]Compressing image DSC_1628-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:06][notice]Start retrying optimization. Count:3
+[2021-05-25 00:55:06][error]Compressing image DSC_1628-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:06][error]Optimizing image failed. Error:Need login
+[2021-05-25 00:55:06][notice]Start backing up image(s).
+[2021-05-25 00:55:06][notice]Start compressing image DSC_1628-1-300x200.jpg
+[2021-05-25 00:55:06][notice]Compressing image DSC_1628-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:06][notice]Start retrying optimization. Count:1
+[2021-05-25 00:55:06][notice]Start compressing image DSC_1628-1-300x200.jpg
+[2021-05-25 00:55:06][notice]Compressing image DSC_1628-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:06][notice]Start retrying optimization. Count:2
+[2021-05-25 00:55:06][notice]Start compressing image DSC_1628-1-300x200.jpg
+[2021-05-25 00:55:06][notice]Compressing image DSC_1628-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:06][notice]Start retrying optimization. Count:3
+[2021-05-25 00:55:06][error]Compressing image DSC_1628-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:06][error]Optimizing image failed. Error:Need login
+====================================================
+open log file: 2021-05-25 00:55:08
+[2021-05-25 00:55:08][notice]Start optimizing image id:540
+[2021-05-25 00:55:08][notice]Start resizing image id:540
+====================================================
+open log file: 2021-05-25 00:55:08
+[2021-05-25 00:55:08][notice]Start optimizing image id:540
+[2021-05-25 00:55:08][notice]Start resizing image id:540
+[2021-05-25 00:55:08][notice]Start backing up image(s).
+[2021-05-25 00:55:08][notice]Start compressing image DSC_1632-300x200.jpg
+[2021-05-25 00:55:08][notice]Compressing image DSC_1632-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:08][notice]Start retrying optimization. Count:1
+[2021-05-25 00:55:08][notice]Start compressing image DSC_1632-300x200.jpg
+[2021-05-25 00:55:08][notice]Compressing image DSC_1632-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:08][notice]Start retrying optimization. Count:2
+[2021-05-25 00:55:08][notice]Start compressing image DSC_1632-300x200.jpg
+[2021-05-25 00:55:08][notice]Compressing image DSC_1632-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:08][notice]Start retrying optimization. Count:3
+[2021-05-25 00:55:08][error]Compressing image DSC_1632-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:08][error]Optimizing image failed. Error:Need login
+[2021-05-25 00:55:08][notice]Start backing up image(s).
+[2021-05-25 00:55:08][notice]Start compressing image DSC_1632-300x200.jpg
+[2021-05-25 00:55:08][notice]Compressing image DSC_1632-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:08][notice]Start retrying optimization. Count:1
+[2021-05-25 00:55:08][notice]Start compressing image DSC_1632-300x200.jpg
+[2021-05-25 00:55:08][notice]Compressing image DSC_1632-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:08][notice]Start retrying optimization. Count:2
+[2021-05-25 00:55:08][notice]Start compressing image DSC_1632-300x200.jpg
+[2021-05-25 00:55:08][notice]Compressing image DSC_1632-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:08][notice]Start retrying optimization. Count:3
+[2021-05-25 00:55:08][error]Compressing image DSC_1632-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:08][error]Optimizing image failed. Error:Need login
+====================================================
+open log file: 2021-05-25 00:55:10
+[2021-05-25 00:55:10][notice]Start optimizing image id:541
+[2021-05-25 00:55:10][notice]Start resizing image id:541
+====================================================
+open log file: 2021-05-25 00:55:11
+[2021-05-25 00:55:11][notice]Start optimizing image id:541
+[2021-05-25 00:55:11][notice]Start resizing image id:541
+[2021-05-25 00:55:11][notice]Start backing up image(s).
+[2021-05-25 00:55:11][notice]Start compressing image DSC_1636-300x200.jpg
+[2021-05-25 00:55:11][notice]Compressing image DSC_1636-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:11][notice]Start retrying optimization. Count:1
+[2021-05-25 00:55:11][notice]Start compressing image DSC_1636-300x200.jpg
+[2021-05-25 00:55:11][notice]Compressing image DSC_1636-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:11][notice]Start retrying optimization. Count:2
+[2021-05-25 00:55:11][notice]Start compressing image DSC_1636-300x200.jpg
+[2021-05-25 00:55:11][notice]Compressing image DSC_1636-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:11][notice]Start retrying optimization. Count:3
+[2021-05-25 00:55:11][error]Compressing image DSC_1636-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:11][error]Optimizing image failed. Error:Need login
+[2021-05-25 00:55:11][notice]Start backing up image(s).
+[2021-05-25 00:55:11][notice]Start compressing image DSC_1636-300x200.jpg
+[2021-05-25 00:55:11][notice]Compressing image DSC_1636-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:11][notice]Start retrying optimization. Count:1
+[2021-05-25 00:55:11][notice]Start compressing image DSC_1636-300x200.jpg
+[2021-05-25 00:55:11][notice]Compressing image DSC_1636-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:11][notice]Start retrying optimization. Count:2
+[2021-05-25 00:55:11][notice]Start compressing image DSC_1636-300x200.jpg
+[2021-05-25 00:55:11][notice]Compressing image DSC_1636-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:11][notice]Start retrying optimization. Count:3
+[2021-05-25 00:55:11][error]Compressing image DSC_1636-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:11][error]Optimizing image failed. Error:Need login
+====================================================
+open log file: 2021-05-25 00:55:13
+[2021-05-25 00:55:13][notice]Start optimizing image id:542
+[2021-05-25 00:55:13][notice]Start resizing image id:542
+====================================================
+open log file: 2021-05-25 00:55:13
+[2021-05-25 00:55:13][notice]Start optimizing image id:542
+[2021-05-25 00:55:13][notice]Start resizing image id:542
+[2021-05-25 00:55:13][notice]Start backing up image(s).
+[2021-05-25 00:55:13][notice]Start compressing image DSC_1640-300x200.jpg
+[2021-05-25 00:55:13][notice]Compressing image DSC_1640-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:13][notice]Start retrying optimization. Count:1
+[2021-05-25 00:55:13][notice]Start compressing image DSC_1640-300x200.jpg
+[2021-05-25 00:55:13][notice]Compressing image DSC_1640-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:13][notice]Start retrying optimization. Count:2
+[2021-05-25 00:55:13][notice]Start compressing image DSC_1640-300x200.jpg
+[2021-05-25 00:55:13][notice]Compressing image DSC_1640-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:13][notice]Start retrying optimization. Count:3
+[2021-05-25 00:55:13][error]Compressing image DSC_1640-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:13][error]Optimizing image failed. Error:Need login
+[2021-05-25 00:55:13][notice]Start backing up image(s).
+[2021-05-25 00:55:13][notice]Start compressing image DSC_1640-300x200.jpg
+[2021-05-25 00:55:13][notice]Compressing image DSC_1640-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:13][notice]Start retrying optimization. Count:1
+[2021-05-25 00:55:13][notice]Start compressing image DSC_1640-300x200.jpg
+[2021-05-25 00:55:13][notice]Compressing image DSC_1640-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:13][notice]Start retrying optimization. Count:2
+[2021-05-25 00:55:13][notice]Start compressing image DSC_1640-300x200.jpg
+[2021-05-25 00:55:13][notice]Compressing image DSC_1640-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:13][notice]Start retrying optimization. Count:3
+[2021-05-25 00:55:13][error]Compressing image DSC_1640-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:13][error]Optimizing image failed. Error:Need login
+====================================================
+open log file: 2021-05-25 00:55:15
+[2021-05-25 00:55:15][notice]Start optimizing image id:543
+[2021-05-25 00:55:15][notice]Start resizing image id:543
+====================================================
+open log file: 2021-05-25 00:55:16
+[2021-05-25 00:55:16][notice]Start optimizing image id:543
+[2021-05-25 00:55:16][notice]Start resizing image id:543
+[2021-05-25 00:55:16][notice]Start backing up image(s).
+[2021-05-25 00:55:16][notice]Start compressing image DSC_1643-1-300x200.jpg
+[2021-05-25 00:55:16][notice]Compressing image DSC_1643-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:16][notice]Start retrying optimization. Count:1
+[2021-05-25 00:55:16][notice]Start compressing image DSC_1643-1-300x200.jpg
+[2021-05-25 00:55:16][notice]Compressing image DSC_1643-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:16][notice]Start retrying optimization. Count:2
+[2021-05-25 00:55:16][notice]Start compressing image DSC_1643-1-300x200.jpg
+[2021-05-25 00:55:16][notice]Compressing image DSC_1643-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:16][notice]Start retrying optimization. Count:3
+[2021-05-25 00:55:16][error]Compressing image DSC_1643-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:16][error]Optimizing image failed. Error:Need login
+[2021-05-25 00:55:16][notice]Start backing up image(s).
+[2021-05-25 00:55:16][notice]Start compressing image DSC_1643-1-300x200.jpg
+[2021-05-25 00:55:16][notice]Compressing image DSC_1643-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:16][notice]Start retrying optimization. Count:1
+[2021-05-25 00:55:16][notice]Start compressing image DSC_1643-1-300x200.jpg
+[2021-05-25 00:55:16][notice]Compressing image DSC_1643-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:16][notice]Start retrying optimization. Count:2
+[2021-05-25 00:55:16][notice]Start compressing image DSC_1643-1-300x200.jpg
+[2021-05-25 00:55:16][notice]Compressing image DSC_1643-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:16][notice]Start retrying optimization. Count:3
+[2021-05-25 00:55:16][error]Compressing image DSC_1643-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:16][error]Optimizing image failed. Error:Need login
+====================================================
+open log file: 2021-05-25 00:55:18
+[2021-05-25 00:55:18][notice]Start optimizing image id:544
+[2021-05-25 00:55:18][notice]Start resizing image id:544
+====================================================
+open log file: 2021-05-25 00:55:18
+[2021-05-25 00:55:18][notice]Start optimizing image id:544
+[2021-05-25 00:55:18][notice]Start resizing image id:544
+[2021-05-25 00:55:18][notice]Start backing up image(s).
+[2021-05-25 00:55:18][notice]Start compressing image DSC_1654-300x200.jpg
+[2021-05-25 00:55:18][notice]Compressing image DSC_1654-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:18][notice]Start retrying optimization. Count:1
+[2021-05-25 00:55:18][notice]Start compressing image DSC_1654-300x200.jpg
+[2021-05-25 00:55:18][notice]Compressing image DSC_1654-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:18][notice]Start retrying optimization. Count:2
+[2021-05-25 00:55:18][notice]Start compressing image DSC_1654-300x200.jpg
+[2021-05-25 00:55:18][notice]Compressing image DSC_1654-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:18][notice]Start retrying optimization. Count:3
+[2021-05-25 00:55:18][error]Compressing image DSC_1654-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:18][error]Optimizing image failed. Error:Need login
+[2021-05-25 00:55:18][notice]Start backing up image(s).
+[2021-05-25 00:55:18][notice]Start compressing image DSC_1654-300x200.jpg
+[2021-05-25 00:55:18][notice]Compressing image DSC_1654-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:18][notice]Start retrying optimization. Count:1
+[2021-05-25 00:55:18][notice]Start compressing image DSC_1654-300x200.jpg
+[2021-05-25 00:55:18][notice]Compressing image DSC_1654-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:18][notice]Start retrying optimization. Count:2
+[2021-05-25 00:55:18][notice]Start compressing image DSC_1654-300x200.jpg
+[2021-05-25 00:55:18][notice]Compressing image DSC_1654-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:18][notice]Start retrying optimization. Count:3
+[2021-05-25 00:55:18][error]Compressing image DSC_1654-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:19][error]Optimizing image failed. Error:Need login
+====================================================
+open log file: 2021-05-25 00:55:20
+[2021-05-25 00:55:20][notice]Start optimizing image id:545
+[2021-05-25 00:55:20][notice]Start resizing image id:545
+====================================================
+open log file: 2021-05-25 00:55:21
+[2021-05-25 00:55:21][notice]Start optimizing image id:545
+[2021-05-25 00:55:21][notice]Start resizing image id:545
+[2021-05-25 00:55:21][notice]Start backing up image(s).
+[2021-05-25 00:55:21][notice]Start compressing image DSC_1656-300x200.jpg
+[2021-05-25 00:55:21][notice]Compressing image DSC_1656-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:21][notice]Start retrying optimization. Count:1
+[2021-05-25 00:55:21][notice]Start compressing image DSC_1656-300x200.jpg
+[2021-05-25 00:55:21][notice]Compressing image DSC_1656-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:21][notice]Start retrying optimization. Count:2
+[2021-05-25 00:55:21][notice]Start compressing image DSC_1656-300x200.jpg
+[2021-05-25 00:55:21][notice]Compressing image DSC_1656-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:21][notice]Start retrying optimization. Count:3
+[2021-05-25 00:55:21][error]Compressing image DSC_1656-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:21][error]Optimizing image failed. Error:Need login
+[2021-05-25 00:55:21][notice]Start backing up image(s).
+[2021-05-25 00:55:21][notice]Start compressing image DSC_1656-300x200.jpg
+[2021-05-25 00:55:21][notice]Compressing image DSC_1656-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:21][notice]Start retrying optimization. Count:1
+[2021-05-25 00:55:21][notice]Start compressing image DSC_1656-300x200.jpg
+[2021-05-25 00:55:21][notice]Compressing image DSC_1656-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:21][notice]Start retrying optimization. Count:2
+[2021-05-25 00:55:21][notice]Start compressing image DSC_1656-300x200.jpg
+[2021-05-25 00:55:21][notice]Compressing image DSC_1656-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:21][notice]Start retrying optimization. Count:3
+[2021-05-25 00:55:21][error]Compressing image DSC_1656-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:21][error]Optimizing image failed. Error:Need login
+====================================================
+open log file: 2021-05-25 00:55:23
+[2021-05-25 00:55:23][notice]Start optimizing image id:546
+[2021-05-25 00:55:23][notice]Start resizing image id:546
+====================================================
+open log file: 2021-05-25 00:55:23
+[2021-05-25 00:55:23][notice]Start optimizing image id:546
+[2021-05-25 00:55:23][notice]Start resizing image id:546
+[2021-05-25 00:55:23][notice]Start backing up image(s).
+[2021-05-25 00:55:23][notice]Start compressing image DSC_1663-1-300x200.jpg
+[2021-05-25 00:55:23][notice]Compressing image DSC_1663-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:23][notice]Start retrying optimization. Count:1
+[2021-05-25 00:55:23][notice]Start compressing image DSC_1663-1-300x200.jpg
+[2021-05-25 00:55:23][notice]Compressing image DSC_1663-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:23][notice]Start retrying optimization. Count:2
+[2021-05-25 00:55:23][notice]Start compressing image DSC_1663-1-300x200.jpg
+[2021-05-25 00:55:23][notice]Compressing image DSC_1663-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:23][notice]Start retrying optimization. Count:3
+[2021-05-25 00:55:23][error]Compressing image DSC_1663-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:23][error]Optimizing image failed. Error:Need login
+[2021-05-25 00:55:23][notice]Start backing up image(s).
+[2021-05-25 00:55:23][notice]Start compressing image DSC_1663-1-300x200.jpg
+[2021-05-25 00:55:23][notice]Compressing image DSC_1663-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:23][notice]Start retrying optimization. Count:1
+[2021-05-25 00:55:23][notice]Start compressing image DSC_1663-1-300x200.jpg
+[2021-05-25 00:55:23][notice]Compressing image DSC_1663-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:23][notice]Start retrying optimization. Count:2
+[2021-05-25 00:55:23][notice]Start compressing image DSC_1663-1-300x200.jpg
+[2021-05-25 00:55:23][notice]Compressing image DSC_1663-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:23][notice]Start retrying optimization. Count:3
+[2021-05-25 00:55:23][error]Compressing image DSC_1663-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:23][error]Optimizing image failed. Error:Need login
+====================================================
+open log file: 2021-05-25 00:55:30
+[2021-05-25 00:55:30][notice]Start optimizing image id:547
+[2021-05-25 00:55:30][notice]Start resizing image id:547
+====================================================
+open log file: 2021-05-25 00:55:31
+[2021-05-25 00:55:31][notice]Start optimizing image id:547
+[2021-05-25 00:55:31][notice]Start resizing image id:547
+[2021-05-25 00:55:31][notice]Start backing up image(s).
+[2021-05-25 00:55:31][notice]Start compressing image DSC_1664-300x200.jpg
+[2021-05-25 00:55:31][notice]Compressing image DSC_1664-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:31][notice]Start retrying optimization. Count:1
+[2021-05-25 00:55:31][notice]Start compressing image DSC_1664-300x200.jpg
+[2021-05-25 00:55:31][notice]Compressing image DSC_1664-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:31][notice]Start retrying optimization. Count:2
+[2021-05-25 00:55:31][notice]Start compressing image DSC_1664-300x200.jpg
+[2021-05-25 00:55:31][notice]Compressing image DSC_1664-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:31][notice]Start retrying optimization. Count:3
+[2021-05-25 00:55:31][error]Compressing image DSC_1664-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:31][error]Optimizing image failed. Error:Need login
+[2021-05-25 00:55:31][notice]Start backing up image(s).
+[2021-05-25 00:55:31][notice]Start compressing image DSC_1664-300x200.jpg
+[2021-05-25 00:55:31][notice]Compressing image DSC_1664-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:31][notice]Start retrying optimization. Count:1
+[2021-05-25 00:55:31][notice]Start compressing image DSC_1664-300x200.jpg
+[2021-05-25 00:55:31][notice]Compressing image DSC_1664-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:31][notice]Start retrying optimization. Count:2
+[2021-05-25 00:55:31][notice]Start compressing image DSC_1664-300x200.jpg
+[2021-05-25 00:55:31][notice]Compressing image DSC_1664-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:31][notice]Start retrying optimization. Count:3
+[2021-05-25 00:55:31][error]Compressing image DSC_1664-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:31][error]Optimizing image failed. Error:Need login
+====================================================
+open log file: 2021-05-25 00:55:33
+[2021-05-25 00:55:33][notice]Start optimizing image id:548
+[2021-05-25 00:55:33][notice]Start resizing image id:548
+====================================================
+open log file: 2021-05-25 00:55:33
+[2021-05-25 00:55:33][notice]Start optimizing image id:548
+[2021-05-25 00:55:33][notice]Start resizing image id:548
+[2021-05-25 00:55:33][notice]Start backing up image(s).
+[2021-05-25 00:55:33][notice]Start compressing image DSC_1669-1-300x200.jpg
+[2021-05-25 00:55:33][notice]Compressing image DSC_1669-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:33][notice]Start retrying optimization. Count:1
+[2021-05-25 00:55:33][notice]Start compressing image DSC_1669-1-300x200.jpg
+[2021-05-25 00:55:33][notice]Compressing image DSC_1669-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:33][notice]Start retrying optimization. Count:2
+[2021-05-25 00:55:33][notice]Start compressing image DSC_1669-1-300x200.jpg
+[2021-05-25 00:55:33][notice]Compressing image DSC_1669-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:33][notice]Start retrying optimization. Count:3
+[2021-05-25 00:55:33][error]Compressing image DSC_1669-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:33][error]Optimizing image failed. Error:Need login
+[2021-05-25 00:55:33][notice]Start backing up image(s).
+[2021-05-25 00:55:33][notice]Start compressing image DSC_1669-1-300x200.jpg
+[2021-05-25 00:55:33][notice]Compressing image DSC_1669-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:33][notice]Start retrying optimization. Count:1
+[2021-05-25 00:55:33][notice]Start compressing image DSC_1669-1-300x200.jpg
+[2021-05-25 00:55:33][notice]Compressing image DSC_1669-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:33][notice]Start retrying optimization. Count:2
+[2021-05-25 00:55:33][notice]Start compressing image DSC_1669-1-300x200.jpg
+[2021-05-25 00:55:33][notice]Compressing image DSC_1669-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:33][notice]Start retrying optimization. Count:3
+[2021-05-25 00:55:33][error]Compressing image DSC_1669-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:33][error]Optimizing image failed. Error:Need login
+====================================================
+open log file: 2021-05-25 00:55:35
+[2021-05-25 00:55:35][notice]Start optimizing image id:549
+[2021-05-25 00:55:35][notice]Start resizing image id:549
+====================================================
+open log file: 2021-05-25 00:55:36
+[2021-05-25 00:55:36][notice]Start optimizing image id:549
+[2021-05-25 00:55:36][notice]Start resizing image id:549
+[2021-05-25 00:55:36][notice]Start backing up image(s).
+[2021-05-25 00:55:36][notice]Start compressing image DSC_1672-1-300x200.jpg
+[2021-05-25 00:55:36][notice]Compressing image DSC_1672-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:36][notice]Start retrying optimization. Count:1
+[2021-05-25 00:55:36][notice]Start compressing image DSC_1672-1-300x200.jpg
+[2021-05-25 00:55:36][notice]Compressing image DSC_1672-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:36][notice]Start retrying optimization. Count:2
+[2021-05-25 00:55:36][notice]Start compressing image DSC_1672-1-300x200.jpg
+[2021-05-25 00:55:36][notice]Compressing image DSC_1672-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:36][notice]Start retrying optimization. Count:3
+[2021-05-25 00:55:36][error]Compressing image DSC_1672-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:36][error]Optimizing image failed. Error:Need login
+[2021-05-25 00:55:36][notice]Start backing up image(s).
+[2021-05-25 00:55:36][notice]Start compressing image DSC_1672-1-300x200.jpg
+[2021-05-25 00:55:36][notice]Compressing image DSC_1672-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:36][notice]Start retrying optimization. Count:1
+[2021-05-25 00:55:36][notice]Start compressing image DSC_1672-1-300x200.jpg
+[2021-05-25 00:55:36][notice]Compressing image DSC_1672-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:36][notice]Start retrying optimization. Count:2
+[2021-05-25 00:55:36][notice]Start compressing image DSC_1672-1-300x200.jpg
+[2021-05-25 00:55:36][notice]Compressing image DSC_1672-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:36][notice]Start retrying optimization. Count:3
+[2021-05-25 00:55:36][error]Compressing image DSC_1672-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:36][error]Optimizing image failed. Error:Need login
+====================================================
+open log file: 2021-05-25 00:55:38
+[2021-05-25 00:55:38][notice]Start optimizing image id:550
+[2021-05-25 00:55:38][notice]Start resizing image id:550
+====================================================
+open log file: 2021-05-25 00:55:38
+[2021-05-25 00:55:38][notice]Start optimizing image id:550
+[2021-05-25 00:55:38][notice]Start resizing image id:550
+[2021-05-25 00:55:38][notice]Start backing up image(s).
+[2021-05-25 00:55:38][notice]Start compressing image DSC_1675-1-300x200.jpg
+[2021-05-25 00:55:38][notice]Compressing image DSC_1675-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:38][notice]Start retrying optimization. Count:1
+[2021-05-25 00:55:38][notice]Start compressing image DSC_1675-1-300x200.jpg
+[2021-05-25 00:55:38][notice]Compressing image DSC_1675-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:38][notice]Start retrying optimization. Count:2
+[2021-05-25 00:55:38][notice]Start compressing image DSC_1675-1-300x200.jpg
+[2021-05-25 00:55:38][notice]Compressing image DSC_1675-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:38][notice]Start retrying optimization. Count:3
+[2021-05-25 00:55:38][error]Compressing image DSC_1675-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:38][error]Optimizing image failed. Error:Need login
+[2021-05-25 00:55:38][notice]Start backing up image(s).
+[2021-05-25 00:55:38][notice]Start compressing image DSC_1675-1-300x200.jpg
+[2021-05-25 00:55:38][notice]Compressing image DSC_1675-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:38][notice]Start retrying optimization. Count:1
+[2021-05-25 00:55:38][notice]Start compressing image DSC_1675-1-300x200.jpg
+[2021-05-25 00:55:38][notice]Compressing image DSC_1675-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:38][notice]Start retrying optimization. Count:2
+[2021-05-25 00:55:38][notice]Start compressing image DSC_1675-1-300x200.jpg
+[2021-05-25 00:55:38][notice]Compressing image DSC_1675-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:38][notice]Start retrying optimization. Count:3
+[2021-05-25 00:55:38][error]Compressing image DSC_1675-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:38][error]Optimizing image failed. Error:Need login
+====================================================
+open log file: 2021-05-25 00:55:40
+[2021-05-25 00:55:40][notice]Start optimizing image id:551
+[2021-05-25 00:55:40][notice]Start resizing image id:551
+====================================================
+open log file: 2021-05-25 00:55:41
+[2021-05-25 00:55:41][notice]Start optimizing image id:551
+[2021-05-25 00:55:41][notice]Start resizing image id:551
+[2021-05-25 00:55:41][notice]Start backing up image(s).
+[2021-05-25 00:55:41][notice]Start compressing image DSC_1682-1-300x200.jpg
+[2021-05-25 00:55:41][notice]Compressing image DSC_1682-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:41][notice]Start retrying optimization. Count:1
+[2021-05-25 00:55:41][notice]Start compressing image DSC_1682-1-300x200.jpg
+[2021-05-25 00:55:41][notice]Compressing image DSC_1682-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:41][notice]Start retrying optimization. Count:2
+[2021-05-25 00:55:41][notice]Start compressing image DSC_1682-1-300x200.jpg
+[2021-05-25 00:55:41][notice]Compressing image DSC_1682-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:41][notice]Start retrying optimization. Count:3
+[2021-05-25 00:55:41][error]Compressing image DSC_1682-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:41][error]Optimizing image failed. Error:Need login
+[2021-05-25 00:55:41][notice]Start backing up image(s).
+[2021-05-25 00:55:41][notice]Start compressing image DSC_1682-1-300x200.jpg
+[2021-05-25 00:55:41][notice]Compressing image DSC_1682-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:41][notice]Start retrying optimization. Count:1
+[2021-05-25 00:55:41][notice]Start compressing image DSC_1682-1-300x200.jpg
+[2021-05-25 00:55:41][notice]Compressing image DSC_1682-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:41][notice]Start retrying optimization. Count:2
+[2021-05-25 00:55:41][notice]Start compressing image DSC_1682-1-300x200.jpg
+[2021-05-25 00:55:41][notice]Compressing image DSC_1682-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:41][notice]Start retrying optimization. Count:3
+[2021-05-25 00:55:41][error]Compressing image DSC_1682-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:41][error]Optimizing image failed. Error:Need login
+====================================================
+open log file: 2021-05-25 00:55:44
+[2021-05-25 00:55:44][notice]Start optimizing image id:552
+[2021-05-25 00:55:44][notice]Start resizing image id:552
+====================================================
+open log file: 2021-05-25 00:55:44
+[2021-05-25 00:55:44][notice]Start optimizing image id:552
+[2021-05-25 00:55:44][notice]Start resizing image id:552
+[2021-05-25 00:55:44][notice]Start backing up image(s).
+[2021-05-25 00:55:44][notice]Start compressing image DSC_1687-1-300x200.jpg
+[2021-05-25 00:55:44][notice]Compressing image DSC_1687-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:44][notice]Start retrying optimization. Count:1
+[2021-05-25 00:55:44][notice]Start compressing image DSC_1687-1-300x200.jpg
+[2021-05-25 00:55:44][notice]Compressing image DSC_1687-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:44][notice]Start retrying optimization. Count:2
+[2021-05-25 00:55:44][notice]Start compressing image DSC_1687-1-300x200.jpg
+[2021-05-25 00:55:44][notice]Compressing image DSC_1687-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:44][notice]Start retrying optimization. Count:3
+[2021-05-25 00:55:44][error]Compressing image DSC_1687-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:44][error]Optimizing image failed. Error:Need login
+[2021-05-25 00:55:45][notice]Start backing up image(s).
+[2021-05-25 00:55:45][notice]Start compressing image DSC_1687-1-300x200.jpg
+[2021-05-25 00:55:45][notice]Compressing image DSC_1687-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:45][notice]Start retrying optimization. Count:1
+[2021-05-25 00:55:45][notice]Start compressing image DSC_1687-1-300x200.jpg
+[2021-05-25 00:55:45][notice]Compressing image DSC_1687-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:45][notice]Start retrying optimization. Count:2
+[2021-05-25 00:55:45][notice]Start compressing image DSC_1687-1-300x200.jpg
+[2021-05-25 00:55:45][notice]Compressing image DSC_1687-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:45][notice]Start retrying optimization. Count:3
+[2021-05-25 00:55:45][error]Compressing image DSC_1687-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:45][error]Optimizing image failed. Error:Need login
+====================================================
+open log file: 2021-05-25 00:55:47
+[2021-05-25 00:55:47][notice]Start optimizing image id:553
+[2021-05-25 00:55:47][notice]Start resizing image id:553
+====================================================
+open log file: 2021-05-25 00:55:48
+[2021-05-25 00:55:48][notice]Start optimizing image id:553
+[2021-05-25 00:55:48][notice]Start resizing image id:553
+[2021-05-25 00:55:48][notice]Start backing up image(s).
+[2021-05-25 00:55:48][notice]Start compressing image DSC_1700-300x200.jpg
+[2021-05-25 00:55:48][notice]Compressing image DSC_1700-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:48][notice]Start retrying optimization. Count:1
+[2021-05-25 00:55:48][notice]Start compressing image DSC_1700-300x200.jpg
+[2021-05-25 00:55:48][notice]Compressing image DSC_1700-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:48][notice]Start retrying optimization. Count:2
+[2021-05-25 00:55:48][notice]Start compressing image DSC_1700-300x200.jpg
+[2021-05-25 00:55:48][notice]Compressing image DSC_1700-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:48][notice]Start retrying optimization. Count:3
+[2021-05-25 00:55:48][error]Compressing image DSC_1700-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:48][error]Optimizing image failed. Error:Need login
+[2021-05-25 00:55:48][notice]Start backing up image(s).
+[2021-05-25 00:55:48][notice]Start compressing image DSC_1700-300x200.jpg
+[2021-05-25 00:55:48][notice]Compressing image DSC_1700-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:48][notice]Start retrying optimization. Count:1
+[2021-05-25 00:55:48][notice]Start compressing image DSC_1700-300x200.jpg
+[2021-05-25 00:55:48][notice]Compressing image DSC_1700-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:48][notice]Start retrying optimization. Count:2
+[2021-05-25 00:55:48][notice]Start compressing image DSC_1700-300x200.jpg
+[2021-05-25 00:55:48][notice]Compressing image DSC_1700-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:48][notice]Start retrying optimization. Count:3
+[2021-05-25 00:55:48][error]Compressing image DSC_1700-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:48][error]Optimizing image failed. Error:Need login
+====================================================
+open log file: 2021-05-25 00:55:52
+[2021-05-25 00:55:52][notice]Start optimizing image id:554
+[2021-05-25 00:55:52][notice]Start resizing image id:554
+====================================================
+open log file: 2021-05-25 00:55:52
+[2021-05-25 00:55:52][notice]Start optimizing image id:554
+[2021-05-25 00:55:52][notice]Start resizing image id:554
+[2021-05-25 00:55:52][notice]Start backing up image(s).
+[2021-05-25 00:55:52][notice]Start compressing image DSC_1704-1-300x200.jpg
+[2021-05-25 00:55:52][notice]Compressing image DSC_1704-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:52][notice]Start retrying optimization. Count:1
+[2021-05-25 00:55:52][notice]Start compressing image DSC_1704-1-300x200.jpg
+[2021-05-25 00:55:52][notice]Compressing image DSC_1704-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:52][notice]Start retrying optimization. Count:2
+[2021-05-25 00:55:52][notice]Start compressing image DSC_1704-1-300x200.jpg
+[2021-05-25 00:55:52][notice]Compressing image DSC_1704-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:52][notice]Start retrying optimization. Count:3
+[2021-05-25 00:55:52][error]Compressing image DSC_1704-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:52][error]Optimizing image failed. Error:Need login
+[2021-05-25 00:55:52][notice]Start backing up image(s).
+[2021-05-25 00:55:52][notice]Start compressing image DSC_1704-1-300x200.jpg
+[2021-05-25 00:55:52][notice]Compressing image DSC_1704-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:52][notice]Start retrying optimization. Count:1
+[2021-05-25 00:55:52][notice]Start compressing image DSC_1704-1-300x200.jpg
+[2021-05-25 00:55:52][notice]Compressing image DSC_1704-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:52][notice]Start retrying optimization. Count:2
+[2021-05-25 00:55:52][notice]Start compressing image DSC_1704-1-300x200.jpg
+[2021-05-25 00:55:52][notice]Compressing image DSC_1704-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:52][notice]Start retrying optimization. Count:3
+[2021-05-25 00:55:52][error]Compressing image DSC_1704-1-300x200.jpg failed. Error:Need login
+[2021-05-25 00:55:52][error]Optimizing image failed. Error:Need login
+====================================================
+open log file: 2021-05-25 00:55:53
+[2021-05-25 00:55:53][notice]Start optimizing image id:555
+[2021-05-25 00:55:53][notice]Start backing up image(s).
+[2021-05-25 00:55:53][notice]Start compressing image 257NCaerial-1024x683-Copy-300x200.jpeg
+[2021-05-25 00:55:53][notice]Compressing image 257NCaerial-1024x683-Copy-300x200.jpeg failed. Error:Need login
+[2021-05-25 00:55:53][notice]Start retrying optimization. Count:1
+[2021-05-25 00:55:53][notice]Start compressing image 257NCaerial-1024x683-Copy-300x200.jpeg
+[2021-05-25 00:55:53][notice]Compressing image 257NCaerial-1024x683-Copy-300x200.jpeg failed. Error:Need login
+[2021-05-25 00:55:53][notice]Start retrying optimization. Count:2
+[2021-05-25 00:55:53][notice]Start compressing image 257NCaerial-1024x683-Copy-300x200.jpeg
+[2021-05-25 00:55:53][notice]Compressing image 257NCaerial-1024x683-Copy-300x200.jpeg failed. Error:Need login
+[2021-05-25 00:55:53][notice]Start retrying optimization. Count:3
+[2021-05-25 00:55:53][error]Compressing image 257NCaerial-1024x683-Copy-300x200.jpeg failed. Error:Need login
+[2021-05-25 00:55:53][error]Optimizing image failed. Error:Need login
+====================================================
+open log file: 2021-05-25 00:55:54
+[2021-05-25 00:55:54][notice]Start optimizing image id:556
+[2021-05-25 00:55:54][notice]Start backing up image(s).
+[2021-05-25 00:55:54][notice]Start compressing image 257NCaerial-1024x683-2-300x200.jpeg
+[2021-05-25 00:55:54][notice]Compressing image 257NCaerial-1024x683-2-300x200.jpeg failed. Error:Need login
+[2021-05-25 00:55:54][notice]Start retrying optimization. Count:1
+[2021-05-25 00:55:54][notice]Start compressing image 257NCaerial-1024x683-2-300x200.jpeg
+[2021-05-25 00:55:54][notice]Compressing image 257NCaerial-1024x683-2-300x200.jpeg failed. Error:Need login
+[2021-05-25 00:55:54][notice]Start retrying optimization. Count:2
+[2021-05-25 00:55:54][notice]Start compressing image 257NCaerial-1024x683-2-300x200.jpeg
+[2021-05-25 00:55:54][notice]Compressing image 257NCaerial-1024x683-2-300x200.jpeg failed. Error:Need login
+[2021-05-25 00:55:54][notice]Start retrying optimization. Count:3
+[2021-05-25 00:55:54][error]Compressing image 257NCaerial-1024x683-2-300x200.jpeg failed. Error:Need login
+[2021-05-25 00:55:54][error]Optimizing image failed. Error:Need login
+====================================================
+open log file: 2021-05-25 00:55:54
+[2021-05-25 00:55:54][notice]Start optimizing image id:557
+[2021-05-25 00:55:54][notice]Start resizing image id:557
+====================================================
+open log file: 2021-05-25 00:55:55
+[2021-05-25 00:55:55][notice]Start optimizing image id:557
+[2021-05-25 00:55:55][notice]Start resizing image id:557
+[2021-05-25 00:55:55][notice]Start backing up image(s).
+[2021-05-25 00:55:55][notice]Start compressing image 257NCaerial-1536x1024-2-300x200.jpeg
+[2021-05-25 00:55:55][notice]Compressing image 257NCaerial-1536x1024-2-300x200.jpeg failed. Error:Need login
+[2021-05-25 00:55:55][notice]Start retrying optimization. Count:1
+[2021-05-25 00:55:55][notice]Start compressing image 257NCaerial-1536x1024-2-300x200.jpeg
+[2021-05-25 00:55:55][notice]Compressing image 257NCaerial-1536x1024-2-300x200.jpeg failed. Error:Need login
+[2021-05-25 00:55:55][notice]Start retrying optimization. Count:2
+[2021-05-25 00:55:55][notice]Start compressing image 257NCaerial-1536x1024-2-300x200.jpeg
+[2021-05-25 00:55:55][notice]Compressing image 257NCaerial-1536x1024-2-300x200.jpeg failed. Error:Need login
+[2021-05-25 00:55:55][notice]Start retrying optimization. Count:3
+[2021-05-25 00:55:55][error]Compressing image 257NCaerial-1536x1024-2-300x200.jpeg failed. Error:Need login
+[2021-05-25 00:55:55][error]Optimizing image failed. Error:Need login
+[2021-05-25 00:55:55][notice]Start backing up image(s).
+[2021-05-25 00:55:55][notice]Start compressing image 257NCaerial-1536x1024-2-300x200.jpeg
+[2021-05-25 00:55:55][notice]Compressing image 257NCaerial-1536x1024-2-300x200.jpeg failed. Error:Need login
+[2021-05-25 00:55:55][notice]Start retrying optimization. Count:1
+[2021-05-25 00:55:55][notice]Start compressing image 257NCaerial-1536x1024-2-300x200.jpeg
+[2021-05-25 00:55:55][notice]Compressing image 257NCaerial-1536x1024-2-300x200.jpeg failed. Error:Need login
+[2021-05-25 00:55:55][notice]Start retrying optimization. Count:2
+[2021-05-25 00:55:55][notice]Start compressing image 257NCaerial-1536x1024-2-300x200.jpeg
+[2021-05-25 00:55:55][notice]Compressing image 257NCaerial-1536x1024-2-300x200.jpeg failed. Error:Need login
+[2021-05-25 00:55:55][notice]Start retrying optimization. Count:3
+[2021-05-25 00:55:55][error]Compressing image 257NCaerial-1536x1024-2-300x200.jpeg failed. Error:Need login
+[2021-05-25 00:55:55][error]Optimizing image failed. Error:Need login
+====================================================
+open log file: 2021-05-25 00:55:55
+[2021-05-25 00:55:55][notice]Start optimizing image id:558
+[2021-05-25 00:55:55][notice]Start backing up image(s).
+[2021-05-25 00:55:55][notice]Start compressing image 257NCbathroom-1024x684-2-300x200.jpeg
+[2021-05-25 00:55:55][notice]Compressing image 257NCbathroom-1024x684-2-300x200.jpeg failed. Error:Need login
+[2021-05-25 00:55:55][notice]Start retrying optimization. Count:1
+[2021-05-25 00:55:55][notice]Start compressing image 257NCbathroom-1024x684-2-300x200.jpeg
+[2021-05-25 00:55:55][notice]Compressing image 257NCbathroom-1024x684-2-300x200.jpeg failed. Error:Need login
+[2021-05-25 00:55:55][notice]Start retrying optimization. Count:2
+[2021-05-25 00:55:55][notice]Start compressing image 257NCbathroom-1024x684-2-300x200.jpeg
+[2021-05-25 00:55:55][notice]Compressing image 257NCbathroom-1024x684-2-300x200.jpeg failed. Error:Need login
+[2021-05-25 00:55:55][notice]Start retrying optimization. Count:3
+[2021-05-25 00:55:55][error]Compressing image 257NCbathroom-1024x684-2-300x200.jpeg failed. Error:Need login
+[2021-05-25 00:55:55][error]Optimizing image failed. Error:Need login
+====================================================
+open log file: 2021-05-25 00:55:56
+[2021-05-25 00:55:56][notice]Start optimizing image id:559
+[2021-05-25 00:55:56][notice]Start resizing image id:559
+====================================================
+open log file: 2021-05-25 00:55:56
+[2021-05-25 00:55:56][notice]Start optimizing image id:559
+[2021-05-25 00:55:56][notice]Start resizing image id:559
+[2021-05-25 00:55:56][notice]Start backing up image(s).
+[2021-05-25 00:55:56][notice]Start compressing image 257NCbathroom-1536x1026-2-300x200.jpeg
+[2021-05-25 00:55:56][notice]Compressing image 257NCbathroom-1536x1026-2-300x200.jpeg failed. Error:Need login
+[2021-05-25 00:55:56][notice]Start retrying optimization. Count:1
+[2021-05-25 00:55:56][notice]Start compressing image 257NCbathroom-1536x1026-2-300x200.jpeg
+[2021-05-25 00:55:57][notice]Compressing image 257NCbathroom-1536x1026-2-300x200.jpeg failed. Error:Need login
+[2021-05-25 00:55:57][notice]Start retrying optimization. Count:2
+[2021-05-25 00:55:57][notice]Start compressing image 257NCbathroom-1536x1026-2-300x200.jpeg
+[2021-05-25 00:55:57][notice]Compressing image 257NCbathroom-1536x1026-2-300x200.jpeg failed. Error:Need login
+[2021-05-25 00:55:57][notice]Start retrying optimization. Count:3
+[2021-05-25 00:55:57][error]Compressing image 257NCbathroom-1536x1026-2-300x200.jpeg failed. Error:Need login
+[2021-05-25 00:55:57][error]Optimizing image failed. Error:Need login
+[2021-05-25 00:55:57][notice]Start backing up image(s).
+[2021-05-25 00:55:57][notice]Start compressing image 257NCbathroom-1536x1026-2-300x200.jpeg
+[2021-05-25 00:55:57][notice]Compressing image 257NCbathroom-1536x1026-2-300x200.jpeg failed. Error:Need login
+[2021-05-25 00:55:57][notice]Start retrying optimization. Count:1
+[2021-05-25 00:55:57][notice]Start compressing image 257NCbathroom-1536x1026-2-300x200.jpeg
+[2021-05-25 00:55:57][notice]Compressing image 257NCbathroom-1536x1026-2-300x200.jpeg failed. Error:Need login
+[2021-05-25 00:55:57][notice]Start retrying optimization. Count:2
+[2021-05-25 00:55:57][notice]Start compressing image 257NCbathroom-1536x1026-2-300x200.jpeg
+[2021-05-25 00:55:57][notice]Compressing image 257NCbathroom-1536x1026-2-300x200.jpeg failed. Error:Need login
+[2021-05-25 00:55:57][notice]Start retrying optimization. Count:3
+[2021-05-25 00:55:57][error]Compressing image 257NCbathroom-1536x1026-2-300x200.jpeg failed. Error:Need login
+[2021-05-25 00:55:57][error]Optimizing image failed. Error:Need login
+====================================================
+open log file: 2021-05-25 00:55:57
+[2021-05-25 00:55:57][notice]Start optimizing image id:560
+[2021-05-25 00:55:57][notice]Start backing up image(s).
+[2021-05-25 00:55:57][notice]Start compressing image 257NCdining-150x150.jpeg
+[2021-05-25 00:55:57][notice]Compressing image 257NCdining-150x150.jpeg failed. Error:Need login
+[2021-05-25 00:55:57][notice]Start retrying optimization. Count:1
+[2021-05-25 00:55:57][notice]Start compressing image 257NCdining-150x150.jpeg
+[2021-05-25 00:55:57][notice]Compressing image 257NCdining-150x150.jpeg failed. Error:Need login
+[2021-05-25 00:55:57][notice]Start retrying optimization. Count:2
+[2021-05-25 00:55:57][notice]Start compressing image 257NCdining-150x150.jpeg
+[2021-05-25 00:55:57][notice]Compressing image 257NCdining-150x150.jpeg failed. Error:Need login
+[2021-05-25 00:55:57][notice]Start retrying optimization. Count:3
+[2021-05-25 00:55:57][error]Compressing image 257NCdining-150x150.jpeg failed. Error:Need login
+[2021-05-25 00:55:57][error]Optimizing image failed. Error:Need login
+====================================================
+open log file: 2021-05-25 00:55:57
+[2021-05-25 00:55:57][notice]Start optimizing image id:561
+[2021-05-25 00:55:57][notice]Start backing up image(s).
+[2021-05-25 00:55:57][notice]Start compressing image 257NCfrontdoor-800x533-2-300x200.jpeg
+[2021-05-25 00:55:57][notice]Compressing image 257NCfrontdoor-800x533-2-300x200.jpeg failed. Error:Need login
+[2021-05-25 00:55:57][notice]Start retrying optimization. Count:1
+[2021-05-25 00:55:57][notice]Start compressing image 257NCfrontdoor-800x533-2-300x200.jpeg
+[2021-05-25 00:55:57][notice]Compressing image 257NCfrontdoor-800x533-2-300x200.jpeg failed. Error:Need login
+[2021-05-25 00:55:57][notice]Start retrying optimization. Count:2
+[2021-05-25 00:55:57][notice]Start compressing image 257NCfrontdoor-800x533-2-300x200.jpeg
+[2021-05-25 00:55:57][notice]Compressing image 257NCfrontdoor-800x533-2-300x200.jpeg failed. Error:Need login
+[2021-05-25 00:55:57][notice]Start retrying optimization. Count:3
+[2021-05-25 00:55:57][error]Compressing image 257NCfrontdoor-800x533-2-300x200.jpeg failed. Error:Need login
+[2021-05-25 00:55:57][error]Optimizing image failed. Error:Need login
+====================================================
+open log file: 2021-05-25 00:55:58
+[2021-05-25 00:55:58][notice]Start optimizing image id:562
+[2021-05-25 00:55:58][notice]Start backing up image(s).
+[2021-05-25 00:55:58][notice]Start compressing image 257NCfrontdoor-1024x684-2-300x200.jpeg
+[2021-05-25 00:55:58][notice]Compressing image 257NCfrontdoor-1024x684-2-300x200.jpeg failed. Error:Need login
+[2021-05-25 00:55:58][notice]Start retrying optimization. Count:1
+[2021-05-25 00:55:58][notice]Start compressing image 257NCfrontdoor-1024x684-2-300x200.jpeg
+[2021-05-25 00:55:58][notice]Compressing image 257NCfrontdoor-1024x684-2-300x200.jpeg failed. Error:Need login
+[2021-05-25 00:55:58][notice]Start retrying optimization. Count:2
+[2021-05-25 00:55:58][notice]Start compressing image 257NCfrontdoor-1024x684-2-300x200.jpeg
+[2021-05-25 00:55:58][notice]Compressing image 257NCfrontdoor-1024x684-2-300x200.jpeg failed. Error:Need login
+[2021-05-25 00:55:58][notice]Start retrying optimization. Count:3
+[2021-05-25 00:55:58][error]Compressing image 257NCfrontdoor-1024x684-2-300x200.jpeg failed. Error:Need login
+[2021-05-25 00:55:58][error]Optimizing image failed. Error:Need login
+====================================================
+open log file: 2021-05-25 00:55:59
+[2021-05-25 00:55:59][notice]Start optimizing image id:563
+[2021-05-25 00:55:59][notice]Start resizing image id:563
+====================================================
+open log file: 2021-05-25 00:55:59
+[2021-05-25 00:55:59][notice]Start optimizing image id:563
+[2021-05-25 00:55:59][notice]Start resizing image id:563
+[2021-05-25 00:55:59][notice]Start backing up image(s).
+[2021-05-25 00:55:59][notice]Start compressing image 257NCfrontdoor-1536x1026-2-300x200.jpeg
+[2021-05-25 00:55:59][notice]Compressing image 257NCfrontdoor-1536x1026-2-300x200.jpeg failed. Error:Need login
+[2021-05-25 00:55:59][notice]Start retrying optimization. Count:1
+[2021-05-25 00:55:59][notice]Start compressing image 257NCfrontdoor-1536x1026-2-300x200.jpeg
+[2021-05-25 00:55:59][notice]Compressing image 257NCfrontdoor-1536x1026-2-300x200.jpeg failed. Error:Need login
+[2021-05-25 00:55:59][notice]Start retrying optimization. Count:2
+[2021-05-25 00:55:59][notice]Start compressing image 257NCfrontdoor-1536x1026-2-300x200.jpeg
+[2021-05-25 00:55:59][notice]Compressing image 257NCfrontdoor-1536x1026-2-300x200.jpeg failed. Error:Need login
+[2021-05-25 00:55:59][notice]Start retrying optimization. Count:3
+[2021-05-25 00:55:59][error]Compressing image 257NCfrontdoor-1536x1026-2-300x200.jpeg failed. Error:Need login
+[2021-05-25 00:55:59][error]Optimizing image failed. Error:Need login
+[2021-05-25 00:55:59][notice]Start backing up image(s).
+[2021-05-25 00:55:59][notice]Start compressing image 257NCfrontdoor-1536x1026-2-300x200.jpeg
+[2021-05-25 00:55:59][notice]Compressing image 257NCfrontdoor-1536x1026-2-300x200.jpeg failed. Error:Need login
+[2021-05-25 00:55:59][notice]Start retrying optimization. Count:1
+[2021-05-25 00:55:59][notice]Start compressing image 257NCfrontdoor-1536x1026-2-300x200.jpeg
+[2021-05-25 00:55:59][notice]Compressing image 257NCfrontdoor-1536x1026-2-300x200.jpeg failed. Error:Need login
+[2021-05-25 00:55:59][notice]Start retrying optimization. Count:2
+[2021-05-25 00:55:59][notice]Start compressing image 257NCfrontdoor-1536x1026-2-300x200.jpeg
+[2021-05-25 00:55:59][notice]Compressing image 257NCfrontdoor-1536x1026-2-300x200.jpeg failed. Error:Need login
+[2021-05-25 00:55:59][notice]Start retrying optimization. Count:3
+[2021-05-25 00:55:59][error]Compressing image 257NCfrontdoor-1536x1026-2-300x200.jpeg failed. Error:Need login
+[2021-05-25 00:55:59][error]Optimizing image failed. Error:Need login
+====================================================
+open log file: 2021-05-25 00:56:00
+[2021-05-25 00:56:00][notice]Start optimizing image id:564
+[2021-05-25 00:56:00][notice]Start backing up image(s).
+[2021-05-25 00:56:00][notice]Start compressing image 257NClivingarea-800x533-2-300x200.jpeg
+[2021-05-25 00:56:00][notice]Compressing image 257NClivingarea-800x533-2-300x200.jpeg failed. Error:Need login
+[2021-05-25 00:56:00][notice]Start retrying optimization. Count:1
+[2021-05-25 00:56:00][notice]Start compressing image 257NClivingarea-800x533-2-300x200.jpeg
+[2021-05-25 00:56:00][notice]Compressing image 257NClivingarea-800x533-2-300x200.jpeg failed. Error:Need login
+[2021-05-25 00:56:00][notice]Start retrying optimization. Count:2
+[2021-05-25 00:56:00][notice]Start compressing image 257NClivingarea-800x533-2-300x200.jpeg
+[2021-05-25 00:56:00][notice]Compressing image 257NClivingarea-800x533-2-300x200.jpeg failed. Error:Need login
+[2021-05-25 00:56:00][notice]Start retrying optimization. Count:3
+[2021-05-25 00:56:00][error]Compressing image 257NClivingarea-800x533-2-300x200.jpeg failed. Error:Need login
+[2021-05-25 00:56:00][error]Optimizing image failed. Error:Need login
+====================================================
+open log file: 2021-05-25 00:56:01
+[2021-05-25 00:56:01][notice]Start optimizing image id:565
+[2021-05-25 00:56:01][notice]Start backing up image(s).
+[2021-05-25 00:56:01][notice]Start compressing image 257NClivingarea-1024x683-2-300x200.jpeg
+[2021-05-25 00:56:01][notice]Compressing image 257NClivingarea-1024x683-2-300x200.jpeg failed. Error:Need login
+[2021-05-25 00:56:01][notice]Start retrying optimization. Count:1
+[2021-05-25 00:56:01][notice]Start compressing image 257NClivingarea-1024x683-2-300x200.jpeg
+[2021-05-25 00:56:01][notice]Compressing image 257NClivingarea-1024x683-2-300x200.jpeg failed. Error:Need login
+[2021-05-25 00:56:01][notice]Start retrying optimization. Count:2
+[2021-05-25 00:56:01][notice]Start compressing image 257NClivingarea-1024x683-2-300x200.jpeg
+[2021-05-25 00:56:01][notice]Compressing image 257NClivingarea-1024x683-2-300x200.jpeg failed. Error:Need login
+[2021-05-25 00:56:01][notice]Start retrying optimization. Count:3
+[2021-05-25 00:56:01][error]Compressing image 257NClivingarea-1024x683-2-300x200.jpeg failed. Error:Need login
+[2021-05-25 00:56:01][error]Optimizing image failed. Error:Need login
+====================================================
+open log file: 2021-05-25 00:56:01
+[2021-05-25 00:56:01][notice]Start optimizing image id:566
+[2021-05-25 00:56:01][notice]Start resizing image id:566
+====================================================
+open log file: 2021-05-25 00:56:02
+[2021-05-25 00:56:02][notice]Start optimizing image id:566
+[2021-05-25 00:56:02][notice]Start resizing image id:566
+[2021-05-25 00:56:02][notice]Start backing up image(s).
+[2021-05-25 00:56:02][notice]Start compressing image 257NClivingarea-1536x1024-2-300x200.jpeg
+[2021-05-25 00:56:02][notice]Compressing image 257NClivingarea-1536x1024-2-300x200.jpeg failed. Error:Need login
+[2021-05-25 00:56:02][notice]Start retrying optimization. Count:1
+[2021-05-25 00:56:02][notice]Start compressing image 257NClivingarea-1536x1024-2-300x200.jpeg
+[2021-05-25 00:56:02][notice]Compressing image 257NClivingarea-1536x1024-2-300x200.jpeg failed. Error:Need login
+[2021-05-25 00:56:02][notice]Start retrying optimization. Count:2
+[2021-05-25 00:56:02][notice]Start compressing image 257NClivingarea-1536x1024-2-300x200.jpeg
+[2021-05-25 00:56:02][notice]Compressing image 257NClivingarea-1536x1024-2-300x200.jpeg failed. Error:Need login
+[2021-05-25 00:56:02][notice]Start retrying optimization. Count:3
+[2021-05-25 00:56:02][error]Compressing image 257NClivingarea-1536x1024-2-300x200.jpeg failed. Error:Need login
+[2021-05-25 00:56:02][error]Optimizing image failed. Error:Need login
+[2021-05-25 00:56:02][notice]Start backing up image(s).
+[2021-05-25 00:56:02][notice]Start compressing image 257NClivingarea-1536x1024-2-300x200.jpeg
+[2021-05-25 00:56:02][notice]Compressing image 257NClivingarea-1536x1024-2-300x200.jpeg failed. Error:Need login
+[2021-05-25 00:56:02][notice]Start retrying optimization. Count:1
+[2021-05-25 00:56:02][notice]Start compressing image 257NClivingarea-1536x1024-2-300x200.jpeg
+[2021-05-25 00:56:02][notice]Compressing image 257NClivingarea-1536x1024-2-300x200.jpeg failed. Error:Need login
+[2021-05-25 00:56:02][notice]Start retrying optimization. Count:2
+[2021-05-25 00:56:02][notice]Start compressing image 257NClivingarea-1536x1024-2-300x200.jpeg
+[2021-05-25 00:56:02][notice]Compressing image 257NClivingarea-1536x1024-2-300x200.jpeg failed. Error:Need login
+[2021-05-25 00:56:02][notice]Start retrying optimization. Count:3
+[2021-05-25 00:56:02][error]Compressing image 257NClivingarea-1536x1024-2-300x200.jpeg failed. Error:Need login
+[2021-05-25 00:56:02][error]Optimizing image failed. Error:Need login
+====================================================
+open log file: 2021-05-25 00:56:02
+[2021-05-25 00:56:02][notice]Start optimizing image id:567
+[2021-05-25 00:56:02][notice]Start backing up image(s).
+[2021-05-25 00:56:02][notice]Start compressing image 257NCpatio-768x513-1-300x200.jpeg
+[2021-05-25 00:56:02][notice]Compressing image 257NCpatio-768x513-1-300x200.jpeg failed. Error:Need login
+[2021-05-25 00:56:02][notice]Start retrying optimization. Count:1
+[2021-05-25 00:56:02][notice]Start compressing image 257NCpatio-768x513-1-300x200.jpeg
+[2021-05-25 00:56:02][notice]Compressing image 257NCpatio-768x513-1-300x200.jpeg failed. Error:Need login
+[2021-05-25 00:56:02][notice]Start retrying optimization. Count:2
+[2021-05-25 00:56:02][notice]Start compressing image 257NCpatio-768x513-1-300x200.jpeg
+[2021-05-25 00:56:02][notice]Compressing image 257NCpatio-768x513-1-300x200.jpeg failed. Error:Need login
+[2021-05-25 00:56:02][notice]Start retrying optimization. Count:3
+[2021-05-25 00:56:02][error]Compressing image 257NCpatio-768x513-1-300x200.jpeg failed. Error:Need login
+[2021-05-25 00:56:02][error]Optimizing image failed. Error:Need login
+====================================================
+open log file: 2021-05-25 00:56:03
+[2021-05-25 00:56:03][notice]Start optimizing image id:568
+[2021-05-25 00:56:03][notice]Start backing up image(s).
+[2021-05-25 00:56:03][notice]Start compressing image 257NCpatio-800x533-2-300x200.jpeg
+[2021-05-25 00:56:03][notice]Compressing image 257NCpatio-800x533-2-300x200.jpeg failed. Error:Need login
+[2021-05-25 00:56:03][notice]Start retrying optimization. Count:1
+[2021-05-25 00:56:03][notice]Start compressing image 257NCpatio-800x533-2-300x200.jpeg
+[2021-05-25 00:56:03][notice]Compressing image 257NCpatio-800x533-2-300x200.jpeg failed. Error:Need login
+[2021-05-25 00:56:03][notice]Start retrying optimization. Count:2
+[2021-05-25 00:56:03][notice]Start compressing image 257NCpatio-800x533-2-300x200.jpeg
+[2021-05-25 00:56:03][notice]Compressing image 257NCpatio-800x533-2-300x200.jpeg failed. Error:Need login
+[2021-05-25 00:56:03][notice]Start retrying optimization. Count:3
+[2021-05-25 00:56:03][error]Compressing image 257NCpatio-800x533-2-300x200.jpeg failed. Error:Need login
+[2021-05-25 00:56:03][error]Optimizing image failed. Error:Need login
+====================================================
+open log file: 2021-05-25 00:56:03
+[2021-05-25 00:56:03][notice]Start optimizing image id:569
+[2021-05-25 00:56:03][notice]Start backing up image(s).
+[2021-05-25 00:56:03][notice]Start compressing image 257NCpatio-1024x684-2-300x200.jpeg
+[2021-05-25 00:56:03][notice]Compressing image 257NCpatio-1024x684-2-300x200.jpeg failed. Error:Need login
+[2021-05-25 00:56:03][notice]Start retrying optimization. Count:1
+[2021-05-25 00:56:03][notice]Start compressing image 257NCpatio-1024x684-2-300x200.jpeg
+[2021-05-25 00:56:03][notice]Compressing image 257NCpatio-1024x684-2-300x200.jpeg failed. Error:Need login
+[2021-05-25 00:56:03][notice]Start retrying optimization. Count:2
+[2021-05-25 00:56:03][notice]Start compressing image 257NCpatio-1024x684-2-300x200.jpeg
+[2021-05-25 00:56:03][notice]Compressing image 257NCpatio-1024x684-2-300x200.jpeg failed. Error:Need login
+[2021-05-25 00:56:03][notice]Start retrying optimization. Count:3
+[2021-05-25 00:56:03][error]Compressing image 257NCpatio-1024x684-2-300x200.jpeg failed. Error:Need login
+[2021-05-25 00:56:03][error]Optimizing image failed. Error:Need login
+====================================================
+open log file: 2021-05-25 00:56:04
+[2021-05-25 00:56:04][notice]Start optimizing image id:570
+[2021-05-25 00:56:04][notice]Start resizing image id:570
+====================================================
+open log file: 2021-05-25 00:56:04
+[2021-05-25 00:56:04][notice]Start optimizing image id:570
+[2021-05-25 00:56:04][notice]Start resizing image id:570
+[2021-05-25 00:56:04][notice]Start backing up image(s).
+[2021-05-25 00:56:04][notice]Start compressing image 257NCpatio-1536x1026-2-300x200.jpeg
+[2021-05-25 00:56:04][notice]Compressing image 257NCpatio-1536x1026-2-300x200.jpeg failed. Error:Need login
+[2021-05-25 00:56:04][notice]Start retrying optimization. Count:1
+[2021-05-25 00:56:04][notice]Start compressing image 257NCpatio-1536x1026-2-300x200.jpeg
+[2021-05-25 00:56:04][notice]Compressing image 257NCpatio-1536x1026-2-300x200.jpeg failed. Error:Need login
+[2021-05-25 00:56:04][notice]Start retrying optimization. Count:2
+[2021-05-25 00:56:04][notice]Start compressing image 257NCpatio-1536x1026-2-300x200.jpeg
+[2021-05-25 00:56:04][notice]Compressing image 257NCpatio-1536x1026-2-300x200.jpeg failed. Error:Need login
+[2021-05-25 00:56:04][notice]Start retrying optimization. Count:3
+[2021-05-25 00:56:04][error]Compressing image 257NCpatio-1536x1026-2-300x200.jpeg failed. Error:Need login
+[2021-05-25 00:56:04][error]Optimizing image failed. Error:Need login
+[2021-05-25 00:56:04][notice]Start backing up image(s).
+[2021-05-25 00:56:04][notice]Start compressing image 257NCpatio-1536x1026-2-300x200.jpeg
+[2021-05-25 00:56:05][notice]Compressing image 257NCpatio-1536x1026-2-300x200.jpeg failed. Error:Need login
+[2021-05-25 00:56:05][notice]Start retrying optimization. Count:1
+[2021-05-25 00:56:05][notice]Start compressing image 257NCpatio-1536x1026-2-300x200.jpeg
+[2021-05-25 00:56:05][notice]Compressing image 257NCpatio-1536x1026-2-300x200.jpeg failed. Error:Need login
+[2021-05-25 00:56:05][notice]Start retrying optimization. Count:2
+[2021-05-25 00:56:05][notice]Start compressing image 257NCpatio-1536x1026-2-300x200.jpeg
+[2021-05-25 00:56:05][notice]Compressing image 257NCpatio-1536x1026-2-300x200.jpeg failed. Error:Need login
+[2021-05-25 00:56:05][notice]Start retrying optimization. Count:3
+[2021-05-25 00:56:05][error]Compressing image 257NCpatio-1536x1026-2-300x200.jpeg failed. Error:Need login
+[2021-05-25 00:56:05][error]Optimizing image failed. Error:Need login
+====================================================
+open log file: 2021-05-25 00:56:05
+[2021-05-25 00:56:05][notice]Start optimizing image id:571
+[2021-05-25 00:56:05][notice]Start backing up image(s).
+[2021-05-25 00:56:05][notice]Start compressing image 723-Kearney-SALE-300x211.jpg
+[2021-05-25 00:56:05][notice]Compressing image 723-Kearney-SALE-300x211.jpg failed. Error:Need login
+[2021-05-25 00:56:05][notice]Start retrying optimization. Count:1
+[2021-05-25 00:56:05][notice]Start compressing image 723-Kearney-SALE-300x211.jpg
+[2021-05-25 00:56:05][notice]Compressing image 723-Kearney-SALE-300x211.jpg failed. Error:Need login
+[2021-05-25 00:56:05][notice]Start retrying optimization. Count:2
+[2021-05-25 00:56:05][notice]Start compressing image 723-Kearney-SALE-300x211.jpg
+[2021-05-25 00:56:05][notice]Compressing image 723-Kearney-SALE-300x211.jpg failed. Error:Need login
+[2021-05-25 00:56:05][notice]Start retrying optimization. Count:3
+[2021-05-25 00:56:05][error]Compressing image 723-Kearney-SALE-300x211.jpg failed. Error:Need login
+[2021-05-25 00:56:05][error]Optimizing image failed. Error:Need login

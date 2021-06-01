@@ -1,0 +1,109 @@
+Log created: 2021-06-01 07:35:17
+Type: backup
+[2021-06-01 07:35:18][notice]Start backing up.
+[2021-06-01 07:35:18][notice]server info fcgi:Off max execution time: 900 wp version:5.7.2 php version:7.4.16 db version:5.5.5 php ini:safe_mode: memory_limit:256M memory_get_usage:7.73 MB memory_get_peak_usage:8.44 MB extensions:PDO enabled curl enabled zlib enabled   is_multisite:0
+[2021-06-01 07:35:18][notice]Prepare to backup backup_db files.
+[2021-06-01 07:35:18][notice]Start exporting database.
+[2021-06-01 07:35:18][notice]max_allowed_packet less than 32M :16.00 MB
+[2021-06-01 07:35:18][notice]Preparing to dump table wp_term_relationships
+[2021-06-01 07:35:18][notice]Preparing to dump table wp_aioseo_notifications
+[2021-06-01 07:35:18][notice]Preparing to dump table wp_options
+[2021-06-01 07:35:18][notice]Preparing to dump table wp_aioseo_posts
+[2021-06-01 07:35:18][notice]Preparing to dump table wp_commentmeta
+[2021-06-01 07:35:18][notice]Preparing to dump table wp_wpvivid_scan_result
+[2021-06-01 07:35:18][notice]Preparing to dump table wp_users
+[2021-06-01 07:35:18][notice]Preparing to dump table wp_actionscheduler_logs
+[2021-06-01 07:35:18][notice]Preparing to dump table wp_comments
+[2021-06-01 07:35:18][notice]Preparing to dump table wp_actionscheduler_groups
+[2021-06-01 07:35:18][notice]Preparing to dump table wp_termmeta
+[2021-06-01 07:35:18][notice]Preparing to dump table wp_links
+[2021-06-01 07:35:18][notice]Preparing to dump table wp_postmeta
+[2021-06-01 07:35:18][notice]Preparing to dump table wp_actionscheduler_claims
+[2021-06-01 07:35:18][notice]Preparing to dump table wp_term_taxonomy
+[2021-06-01 07:35:18][notice]Preparing to dump table wp_terms
+[2021-06-01 07:35:18][notice]Preparing to dump table wp_posts
+[2021-06-01 07:35:18][notice]Preparing to dump table wp_wpvivid_unused_uploads_files
+[2021-06-01 07:35:18][notice]Preparing to dump table wp_brizy_logs
+[2021-06-01 07:35:18][notice]Preparing to dump table wp_usermeta
+[2021-06-01 07:35:18][notice]Preparing to dump table wp_actionscheduler_actions
+[2021-06-01 07:35:18][notice]Exporting database finished.
+[2021-06-01 07:35:18][notice]Start compressing backup_db
+[2021-06-01 07:35:18][notice]Prepare to zip files. file: watermarkpropertiesre.com_wpvivid-60b5e335d4669_2021-06-01-07-35_backup_db.zip
+[2021-06-01 07:35:18][notice]Adding zip files completed.watermarkpropertiesre.com_wpvivid-60b5e335d4669_2021-06-01-07-35_backup_db.zip, filesize: 15.49 MB
+[2021-06-01 07:35:18][notice]Compressing backup_db completed
+[2021-06-01 07:35:18][notice]Backing up backup_db completed.
+[2021-06-01 07:35:18][notice]Prepare to backup backup_themes files.
+[2021-06-01 07:35:18][notice]File number: 1006
+[2021-06-01 07:35:18][notice]Start compressing backup_themes
+[2021-06-01 07:35:18][notice]Prepare to zip files. file: watermarkpropertiesre.com_wpvivid-60b5e335d4669_2021-06-01-07-35_backup_themes.zip
+[2021-06-01 07:35:20][notice]Adding zip files completed.watermarkpropertiesre.com_wpvivid-60b5e335d4669_2021-06-01-07-35_backup_themes.zip, filesize: 28.24 MB
+[2021-06-01 07:35:20][notice]Compressing backup_themes completed
+[2021-06-01 07:35:20][notice]Backing up backup_themes completed.
+[2021-06-01 07:35:20][notice]Prepare to backup backup_plugin files.
+[2021-06-01 07:35:20][notice]File number: 6267
+[2021-06-01 07:35:20][notice]Start compressing backup_plugin
+[2021-06-01 07:35:20][notice]Prepare to zip files. file: watermarkpropertiesre.com_wpvivid-60b5e335d4669_2021-06-01-07-35_backup_plugin.zip
+[2021-06-01 07:35:43][notice]Adding zip files completed.watermarkpropertiesre.com_wpvivid-60b5e335d4669_2021-06-01-07-35_backup_plugin.zip, filesize: 59.83 MB
+[2021-06-01 07:35:43][notice]Compressing backup_plugin completed
+[2021-06-01 07:35:43][notice]Backing up backup_plugin completed.
+[2021-06-01 07:35:43][notice]Prepare to backup backup_uploads files.
+[2021-06-01 07:35:43][notice]File number: 1122
+[2021-06-01 07:35:43][notice]Start compressing backup_uploads
+[2021-06-01 07:35:43][notice]Prepare to zip files. file: watermarkpropertiesre.com_wpvivid-60b5e335d4669_2021-06-01-07-35_backup_uploads.zip
+[2021-06-01 07:35:52][notice]Adding zip files completed.watermarkpropertiesre.com_wpvivid-60b5e335d4669_2021-06-01-07-35_backup_uploads.zip, filesize: 116.36 MB
+[2021-06-01 07:35:52][notice]Compressing backup_uploads completed
+[2021-06-01 07:35:52][notice]Backing up backup_uploads completed.
+[2021-06-01 07:35:52][notice]Prepare to backup backup_content files.
+[2021-06-01 07:35:52][notice]File number: 143
+[2021-06-01 07:35:52][notice]Start compressing backup_content
+[2021-06-01 07:35:52][notice]Prepare to zip files. file: watermarkpropertiesre.com_wpvivid-60b5e335d4669_2021-06-01-07-35_backup_content.zip
+[2021-06-01 07:35:53][notice]Adding zip files completed.watermarkpropertiesre.com_wpvivid-60b5e335d4669_2021-06-01-07-35_backup_content.zip, filesize: 8.75 MB
+[2021-06-01 07:35:53][notice]Compressing backup_content completed
+[2021-06-01 07:35:53][notice]Backing up backup_content completed.
+[2021-06-01 07:35:53][notice]Prepare to backup backup_core files.
+[2021-06-01 07:35:53][notice]File number: 1819
+[2021-06-01 07:35:53][notice]Start compressing backup_core
+[2021-06-01 07:35:53][notice]Prepare to zip files. file: watermarkpropertiesre.com_wpvivid-60b5e335d4669_2021-06-01-07-35_backup_core.zip
+[2021-06-01 07:35:59][notice]Adding zip files completed.watermarkpropertiesre.com_wpvivid-60b5e335d4669_2021-06-01-07-35_backup_core.zip, filesize: 43.87 MB
+[2021-06-01 07:35:59][notice]Compressing backup_core completed
+[2021-06-01 07:35:59][notice]Backing up backup_core completed.
+[2021-06-01 07:35:59][notice]Prepare to backup backup_merge files.
+[2021-06-01 07:35:59][notice]File number: 6
+[2021-06-01 07:35:59][notice]Start compressing backup_merge
+[2021-06-01 07:35:59][notice]Prepare to zip files. file: watermarkpropertiesre.com_wpvivid-60b5e335d4669_2021-06-01-07-35_backup_all.part001.zip
+[2021-06-01 07:36:08][notice]Adding zip files completed.watermarkpropertiesre.com_wpvivid-60b5e335d4669_2021-06-01-07-35_backup_all.part001.zip, filesize: 130.83 MB
+[2021-06-01 07:36:08][notice]Cleaned up file, filename: /var/www/html/wp-content/wpvividbackups/watermarkpropertiesre.com_wpvivid-60b5e335d4669_2021-06-01-07-35_backup_uploads.zip
+[2021-06-01 07:36:08][notice]Cleaned up file, filename: /var/www/html/wp-content/wpvividbackups/watermarkpropertiesre.com_wpvivid-60b5e335d4669_2021-06-01-07-35_backup_plugin.zip
+[2021-06-01 07:36:08][notice]Prepare to zip files. file: watermarkpropertiesre.com_wpvivid-60b5e335d4669_2021-06-01-07-35_backup_all.part002.zip
+[2021-06-01 07:36:12][notice]Adding zip files completed.watermarkpropertiesre.com_wpvivid-60b5e335d4669_2021-06-01-07-35_backup_all.part002.zip, filesize: 45.92 MB
+[2021-06-01 07:36:12][notice]Cleaned up file, filename: /var/www/html/wp-content/wpvividbackups/watermarkpropertiesre.com_wpvivid-60b5e335d4669_2021-06-01-07-35_backup_core.zip
+[2021-06-01 07:36:12][notice]Cleaned up file, filename: /var/www/html/wp-content/wpvividbackups/watermarkpropertiesre.com_wpvivid-60b5e335d4669_2021-06-01-07-35_backup_themes.zip
+[2021-06-01 07:36:12][notice]Cleaned up file, filename: /var/www/html/wp-content/wpvividbackups/watermarkpropertiesre.com_wpvivid-60b5e335d4669_2021-06-01-07-35_backup_db.zip
+[2021-06-01 07:36:12][notice]Cleaned up file, filename: /var/www/html/wp-content/wpvividbackups/watermarkpropertiesre.com_wpvivid-60b5e335d4669_2021-06-01-07-35_backup_content.zip
+[2021-06-01 07:36:12][notice]Compressing backup_merge completed
+[2021-06-01 07:36:12][notice]Backing up backup_merge completed.
+[2021-06-01 07:36:12][notice]Backup completed.
+[2021-06-01 07:36:12][notice]Backup succeeded.
+[2021-06-01 07:36:12][notice]Start upload.
+[2021-06-01 07:36:12][notice]Check upload folder wpvivid_backup
+[2021-06-01 07:36:12][notice]Start uploading watermarkpropertiesre.com_wpvivid-60b5e335d4669_2021-06-01-07-35_backup_all.part001.zip
+[2021-06-01 07:36:12][notice]Check if the server already has the same name file.
+[2021-06-01 07:36:12][notice]Initiate a resumable upload session.
+[2021-06-01 07:36:16][notice]Uploading watermarkpropertiesre.com_wpvivid-60b5e335d4669_2021-06-01-07-35_backup_all.part001.zip Total size: 130.83 MB Uploaded: 10.00 MB speed:2621.44kb/s
+[2021-06-01 07:36:20][notice]Uploading watermarkpropertiesre.com_wpvivid-60b5e335d4669_2021-06-01-07-35_backup_all.part001.zip Total size: 130.83 MB Uploaded: 24.00 MB speed:3670.02kb/s
+[2021-06-01 07:36:24][notice]Uploading watermarkpropertiesre.com_wpvivid-60b5e335d4669_2021-06-01-07-35_backup_all.part001.zip Total size: 130.83 MB Uploaded: 38.00 MB speed:3670.02kb/s
+[2021-06-01 07:36:28][notice]Uploading watermarkpropertiesre.com_wpvivid-60b5e335d4669_2021-06-01-07-35_backup_all.part001.zip Total size: 130.83 MB Uploaded: 52.00 MB speed:3670.02kb/s
+[2021-06-01 07:36:32][notice]Uploading watermarkpropertiesre.com_wpvivid-60b5e335d4669_2021-06-01-07-35_backup_all.part001.zip Total size: 130.83 MB Uploaded: 66.00 MB speed:3670.02kb/s
+[2021-06-01 07:36:36][notice]Uploading watermarkpropertiesre.com_wpvivid-60b5e335d4669_2021-06-01-07-35_backup_all.part001.zip Total size: 130.83 MB Uploaded: 82.00 MB speed:4194.3kb/s
+[2021-06-01 07:36:40][notice]Uploading watermarkpropertiesre.com_wpvivid-60b5e335d4669_2021-06-01-07-35_backup_all.part001.zip Total size: 130.83 MB Uploaded: 100.00 MB speed:4718.59kb/s
+[2021-06-01 07:36:44][notice]Uploading watermarkpropertiesre.com_wpvivid-60b5e335d4669_2021-06-01-07-35_backup_all.part001.zip Total size: 130.83 MB Uploaded: 116.00 MB speed:4194.3kb/s
+[2021-06-01 07:36:48][notice]Uploading watermarkpropertiesre.com_wpvivid-60b5e335d4669_2021-06-01-07-35_backup_all.part001.zip Total size: 130.83 MB Uploaded: 130.83 MB speed:3888.69kb/s
+[2021-06-01 07:36:48][notice]Finished uploading watermarkpropertiesre.com_wpvivid-60b5e335d4669_2021-06-01-07-35_backup_all.part001.zip
+[2021-06-01 07:36:48][notice]Start uploading watermarkpropertiesre.com_wpvivid-60b5e335d4669_2021-06-01-07-35_backup_all.part002.zip
+[2021-06-01 07:36:48][notice]Check if the server already has the same name file.
+[2021-06-01 07:36:48][notice]Initiate a resumable upload session.
+[2021-06-01 07:36:52][notice]Uploading watermarkpropertiesre.com_wpvivid-60b5e335d4669_2021-06-01-07-35_backup_all.part002.zip Total size: 45.92 MB Uploaded: 15.00 MB speed:3932.16kb/s
+[2021-06-01 07:36:56][notice]Uploading watermarkpropertiesre.com_wpvivid-60b5e335d4669_2021-06-01-07-35_backup_all.part002.zip Total size: 45.92 MB Uploaded: 33.00 MB speed:4718.59kb/s
+[2021-06-01 07:36:59][notice]Finished uploading watermarkpropertiesre.com_wpvivid-60b5e335d4669_2021-06-01-07-35_backup_all.part002.zip
+[2021-06-01 07:36:59][notice]Cleaned up local files after uploading to remote storages.
+[2021-06-01 07:36:59][notice]Upload succeeded.

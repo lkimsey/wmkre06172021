@@ -1,0 +1,44 @@
+[2021-05-06 20:44:32][notice]Start backing up image(s).
+[2021-05-06 20:44:32][notice]Start compressing image d03-Img-Watches-187x300.jpg
+[2021-05-06 20:44:32][notice]Compressing image d03-Img-Watches-187x300.jpg failed. Error:Need login
+[2021-05-06 20:44:32][notice]Start retrying optimization. Count:1
+[2021-05-06 20:44:32][notice]Start compressing image d03-Img-Watches-187x300.jpg
+[2021-05-06 20:44:32][notice]Compressing image d03-Img-Watches-187x300.jpg failed. Error:Need login
+[2021-05-06 20:44:32][notice]Start retrying optimization. Count:2
+[2021-05-06 20:44:32][notice]Start compressing image d03-Img-Watches-187x300.jpg
+[2021-05-06 20:44:32][notice]Compressing image d03-Img-Watches-187x300.jpg failed. Error:Need login
+[2021-05-06 20:44:32][notice]Start retrying optimization. Count:3
+[2021-05-06 20:44:32][error]Compressing image d03-Img-Watches-187x300.jpg failed. Error:Need login
+[2021-05-06 20:44:32][notice]Start backing up image(s).
+[2021-05-06 20:44:32][notice]Start compressing image d03-Img-Girl-Blue-Lips-187x300.jpg
+[2021-05-06 20:44:32][notice]Compressing image d03-Img-Girl-Blue-Lips-187x300.jpg failed. Error:Need login
+[2021-05-06 20:44:32][notice]Start retrying optimization. Count:1
+[2021-05-06 20:44:32][notice]Start compressing image d03-Img-Girl-Blue-Lips-187x300.jpg
+[2021-05-06 20:44:32][notice]Compressing image d03-Img-Girl-Blue-Lips-187x300.jpg failed. Error:Need login
+[2021-05-06 20:44:32][notice]Start retrying optimization. Count:2
+[2021-05-06 20:44:32][notice]Start compressing image d03-Img-Girl-Blue-Lips-187x300.jpg
+[2021-05-06 20:44:32][notice]Compressing image d03-Img-Girl-Blue-Lips-187x300.jpg failed. Error:Need login
+[2021-05-06 20:44:32][notice]Start retrying optimization. Count:3
+[2021-05-06 20:44:32][error]Compressing image d03-Img-Girl-Blue-Lips-187x300.jpg failed. Error:Need login
+[2021-05-06 20:44:32][notice]Start backing up image(s).
+[2021-05-06 20:44:32][notice]Start compressing image d03-Img-Organic-Drink-187x300.jpg
+[2021-05-06 20:44:32][notice]Compressing image d03-Img-Organic-Drink-187x300.jpg failed. Error:Need login
+[2021-05-06 20:44:32][notice]Start retrying optimization. Count:1
+[2021-05-06 20:44:32][notice]Start compressing image d03-Img-Organic-Drink-187x300.jpg
+[2021-05-06 20:44:32][notice]Compressing image d03-Img-Organic-Drink-187x300.jpg failed. Error:Need login
+[2021-05-06 20:44:32][notice]Start retrying optimization. Count:2
+[2021-05-06 20:44:32][notice]Start compressing image d03-Img-Organic-Drink-187x300.jpg
+[2021-05-06 20:44:32][notice]Compressing image d03-Img-Organic-Drink-187x300.jpg failed. Error:Need login
+[2021-05-06 20:44:32][notice]Start retrying optimization. Count:3
+[2021-05-06 20:44:32][error]Compressing image d03-Img-Organic-Drink-187x300.jpg failed. Error:Need login
+[2021-05-06 20:44:33][notice]Start backing up image(s).
+[2021-05-06 20:44:33][notice]Start compressing image d03-Img-Lips-Pink-187x300.jpg
+[2021-05-06 20:44:33][notice]Compressing image d03-Img-Lips-Pink-187x300.jpg failed. Error:Need login
+[2021-05-06 20:44:33][notice]Start retrying optimization. Count:1
+[2021-05-06 20:44:33][notice]Start compressing image d03-Img-Lips-Pink-187x300.jpg
+[2021-05-06 20:44:33][notice]Compressing image d03-Img-Lips-Pink-187x300.jpg failed. Error:Need login
+[2021-05-06 20:44:33][notice]Start retrying optimization. Count:2
+[2021-05-06 20:44:33][notice]Start compressing image d03-Img-Lips-Pink-187x300.jpg
+[2021-05-06 20:44:33][notice]Compressing image d03-Img-Lips-Pink-187x300.jpg failed. Error:Need login
+[2021-05-06 20:44:33][notice]Start retrying optimization. Count:3
+[2021-05-06 20:44:33][error]Compressing image d03-Img-Lips-Pink-187x300.jpg failed. Error:Need login

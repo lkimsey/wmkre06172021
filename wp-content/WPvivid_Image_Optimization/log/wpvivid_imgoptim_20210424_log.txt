@@ -1,0 +1,70 @@
+[2021-04-24 07:22:15][notice]Start resizing image id:51
+[2021-04-24 07:22:16][notice]Start resizing image id:51
+[2021-04-24 07:22:16][notice]Start backing up image(s).
+[2021-04-24 07:22:16][notice]Start compressing image b731902c6bf15805972db395c1ec4670-300x64.png
+[2021-04-24 07:22:16][notice]Compressing image b731902c6bf15805972db395c1ec4670-300x64.png failed. Error:Need login
+[2021-04-24 07:22:16][notice]Start retrying optimization. Count:1
+[2021-04-24 07:22:16][notice]Start compressing image b731902c6bf15805972db395c1ec4670-300x64.png
+[2021-04-24 07:22:16][notice]Compressing image b731902c6bf15805972db395c1ec4670-300x64.png failed. Error:Need login
+[2021-04-24 07:22:16][notice]Start retrying optimization. Count:2
+[2021-04-24 07:22:16][notice]Start compressing image b731902c6bf15805972db395c1ec4670-300x64.png
+[2021-04-24 07:22:16][notice]Compressing image b731902c6bf15805972db395c1ec4670-300x64.png failed. Error:Need login
+[2021-04-24 07:22:16][notice]Start retrying optimization. Count:3
+[2021-04-24 07:22:16][error]Compressing image b731902c6bf15805972db395c1ec4670-300x64.png failed. Error:Need login
+[2021-04-24 07:22:16][notice]Start backing up image(s).
+[2021-04-24 07:22:16][notice]Start compressing image b731902c6bf15805972db395c1ec4670-300x64.png
+[2021-04-24 07:22:16][notice]Compressing image b731902c6bf15805972db395c1ec4670-300x64.png failed. Error:Need login
+[2021-04-24 07:22:16][notice]Start retrying optimization. Count:1
+[2021-04-24 07:22:16][notice]Start compressing image b731902c6bf15805972db395c1ec4670-300x64.png
+[2021-04-24 07:22:16][notice]Compressing image b731902c6bf15805972db395c1ec4670-300x64.png failed. Error:Need login
+[2021-04-24 07:22:16][notice]Start retrying optimization. Count:2
+[2021-04-24 07:22:16][notice]Start compressing image b731902c6bf15805972db395c1ec4670-300x64.png
+[2021-04-24 07:22:16][notice]Compressing image b731902c6bf15805972db395c1ec4670-300x64.png failed. Error:Need login
+[2021-04-24 07:22:16][notice]Start retrying optimization. Count:3
+[2021-04-24 07:22:16][error]Compressing image b731902c6bf15805972db395c1ec4670-300x64.png failed. Error:Need login
+[2021-04-24 07:39:18][notice]Start backing up image(s).
+[2021-04-24 07:39:18][notice]Start compressing image d055dc1ad2a297699647a6766b906360-300x200.jpg
+[2021-04-24 07:39:18][notice]Compressing image d055dc1ad2a297699647a6766b906360-300x200.jpg failed. Error:Need login
+[2021-04-24 07:39:18][notice]Start retrying optimization. Count:1
+[2021-04-24 07:39:18][notice]Start compressing image d055dc1ad2a297699647a6766b906360-300x200.jpg
+[2021-04-24 07:39:18][notice]Compressing image d055dc1ad2a297699647a6766b906360-300x200.jpg failed. Error:Need login
+[2021-04-24 07:39:18][notice]Start retrying optimization. Count:2
+[2021-04-24 07:39:18][notice]Start compressing image d055dc1ad2a297699647a6766b906360-300x200.jpg
+[2021-04-24 07:39:18][notice]Compressing image d055dc1ad2a297699647a6766b906360-300x200.jpg failed. Error:Need login
+[2021-04-24 07:39:18][notice]Start retrying optimization. Count:3
+[2021-04-24 07:39:18][error]Compressing image d055dc1ad2a297699647a6766b906360-300x200.jpg failed. Error:Need login
+[2021-04-24 08:25:09][notice]Start resizing image id:91
+[2021-04-24 08:25:10][notice]Start resizing image id:91
+[2021-04-24 08:25:10][notice]Start backing up image(s).
+[2021-04-24 08:25:10][notice]Start compressing image 723Kearneywaterview-300x225.jpg
+[2021-04-24 08:25:10][notice]Compressing image 723Kearneywaterview-300x225.jpg failed. Error:Need login
+[2021-04-24 08:25:10][notice]Start retrying optimization. Count:1
+[2021-04-24 08:25:10][notice]Start compressing image 723Kearneywaterview-300x225.jpg
+[2021-04-24 08:25:10][notice]Compressing image 723Kearneywaterview-300x225.jpg failed. Error:Need login
+[2021-04-24 08:25:10][notice]Start retrying optimization. Count:2
+[2021-04-24 08:25:10][notice]Start compressing image 723Kearneywaterview-300x225.jpg
+[2021-04-24 08:25:10][notice]Compressing image 723Kearneywaterview-300x225.jpg failed. Error:Need login
+[2021-04-24 08:25:10][notice]Start retrying optimization. Count:3
+[2021-04-24 08:25:10][error]Compressing image 723Kearneywaterview-300x225.jpg failed. Error:Need login
+[2021-04-24 08:25:10][notice]Start backing up image(s).
+[2021-04-24 08:25:10][notice]Start compressing image 723Kearneywaterview-300x225.jpg
+[2021-04-24 08:25:10][notice]Compressing image 723Kearneywaterview-300x225.jpg failed. Error:Need login
+[2021-04-24 08:25:10][notice]Start retrying optimization. Count:1
+[2021-04-24 08:25:10][notice]Start compressing image 723Kearneywaterview-300x225.jpg
+[2021-04-24 08:25:10][notice]Compressing image 723Kearneywaterview-300x225.jpg failed. Error:Need login
+[2021-04-24 08:25:10][notice]Start retrying optimization. Count:2
+[2021-04-24 08:25:10][notice]Start compressing image 723Kearneywaterview-300x225.jpg
+[2021-04-24 08:25:10][notice]Compressing image 723Kearneywaterview-300x225.jpg failed. Error:Need login
+[2021-04-24 08:25:10][notice]Start retrying optimization. Count:3
+[2021-04-24 08:25:10][error]Compressing image 723Kearneywaterview-300x225.jpg failed. Error:Need login
+[2021-04-24 08:25:26][notice]Start backing up image(s).
+[2021-04-24 08:25:26][notice]Start compressing image cropped-d055dc1ad2a297699647a6766b906360-300x300.jpg
+[2021-04-24 08:25:26][notice]Compressing image cropped-d055dc1ad2a297699647a6766b906360-300x300.jpg failed. Error:Need login
+[2021-04-24 08:25:26][notice]Start retrying optimization. Count:1
+[2021-04-24 08:25:26][notice]Start compressing image cropped-d055dc1ad2a297699647a6766b906360-300x300.jpg
+[2021-04-24 08:25:26][notice]Compressing image cropped-d055dc1ad2a297699647a6766b906360-300x300.jpg failed. Error:Need login
+[2021-04-24 08:25:26][notice]Start retrying optimization. Count:2
+[2021-04-24 08:25:26][notice]Start compressing image cropped-d055dc1ad2a297699647a6766b906360-300x300.jpg
+[2021-04-24 08:25:26][notice]Compressing image cropped-d055dc1ad2a297699647a6766b906360-300x300.jpg failed. Error:Need login
+[2021-04-24 08:25:26][notice]Start retrying optimization. Count:3
+[2021-04-24 08:25:26][error]Compressing image cropped-d055dc1ad2a297699647a6766b906360-300x300.jpg failed. Error:Need login
