@@ -41,13 +41,10 @@ class Astra_Addon_Colors_Dynamic_CSS {
 		$h5_color              = astra_get_option( 'h5-color' );
 		$h6_color              = astra_get_option( 'h6-color' );
 
-		$header_bg_obj             = astra_get_option( 'header-bg-obj-responsive' );
-		$desktop_header_bg_color   = isset( $header_bg_obj['desktop']['background-color'] ) ? $header_bg_obj['desktop']['background-color'] : '';
-		$tablet_header_bg_color    = isset( $header_bg_obj['tablet']['background-color'] ) ? $header_bg_obj['tablet']['background-color'] : '';
-		$mobile_header_bg_color    = isset( $header_bg_obj['mobile']['background-color'] ) ? $header_bg_obj['mobile']['background-color'] : '';
-		$header_color_site_title   = astra_get_option( 'header-color-site-title' );
-		$header_color_h_site_title = astra_get_option( 'header-color-h-site-title' );
-		$header_color_site_tagline = astra_get_option( 'header-color-site-tagline' );
+		$header_bg_obj           = astra_get_option( 'header-bg-obj-responsive' );
+		$desktop_header_bg_color = isset( $header_bg_obj['desktop']['background-color'] ) ? $header_bg_obj['desktop']['background-color'] : '';
+		$tablet_header_bg_color  = isset( $header_bg_obj['tablet']['background-color'] ) ? $header_bg_obj['tablet']['background-color'] : '';
+		$mobile_header_bg_color  = isset( $header_bg_obj['mobile']['background-color'] ) ? $header_bg_obj['mobile']['background-color'] : '';
 
 		$disable_primary_nav = astra_get_option( 'disable-primary-nav' );
 
@@ -137,20 +134,6 @@ class Astra_Addon_Colors_Dynamic_CSS {
 			),
 
 			/**
-			 * Header
-			 */
-
-			'.site-title a, .site-title a:focus, .site-title a:hover, .site-title a:visited' => array(
-				'color' => esc_attr( $header_color_site_title ),
-			),
-			'.site-header .site-title a:hover'           => array(
-				'color' => esc_attr( $header_color_h_site_title ),
-			),
-			'.site-header .site-description'             => array(
-				'color' => esc_attr( $header_color_site_tagline ),
-			),
-
-			/**
 			 * Single Post / Page Title Color
 			 */
 			'.ast-single-post .entry-title, .page-title' => array(
@@ -216,6 +199,29 @@ class Astra_Addon_Colors_Dynamic_CSS {
 			),
 
 		);
+
+		/**
+		 * Restricting this CSS to load because we introduced color controls in theme directly for Site Title & Tagline.
+		 *
+		 * @since 3.5.0
+		 */
+		if ( is_astra_theme_3_5_0_version() ) {
+			$header_color_site_title   = astra_get_option( 'header-color-site-title' );
+			$header_color_h_site_title = astra_get_option( 'header-color-h-site-title' );
+			$header_color_site_tagline = astra_get_option( 'header-color-site-tagline' );
+			/**
+			 * Header
+			 */
+			$css_output['.site-title a, .site-title a:focus, .site-title a:hover, .site-title a:visited'] = array(
+				'color' => esc_attr( $header_color_site_title ),
+			);
+			$css_output['.site-header .site-title a:hover'] = array(
+				'color' => esc_attr( $header_color_h_site_title ),
+			);
+			$css_output['.site-header .site-description']   = array(
+				'color' => esc_attr( $header_color_site_tagline ),
+			);
+		}
 
 		/* Parse CSS from array() */
 		$css_output = astra_parse_css( $css_output );

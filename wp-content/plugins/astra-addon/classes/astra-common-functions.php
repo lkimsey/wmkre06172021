@@ -456,3 +456,13 @@ function astra_get_megamenu_spacing_css( $spacing_obj ) {
 
 	return $gen_spacing_css;
 }
+
+/**
+ * Check the Astra 3.5.0 version is using or not.
+ * As this is major update and frequently we used version_compare, added a function for this for easy maintenance.
+ *
+ * @since  3.5.0
+ */
+function is_astra_theme_3_5_0_version() {
+	return version_compare( ASTRA_THEME_VERSION, '3.5.0', '<' );
+}

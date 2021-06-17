@@ -79,7 +79,10 @@ function astra_ext_above_header_sections_dynamic_css( $dynamic_css, $dynamic_css
 	if ( 'none' === $sticky_header_style && ! $sticky_hide_on_scroll ) {
 
 		$desktop_above_header_css_output = array(
-			$above_header_sticky_selector => array(
+			'.ast-above-header-bar.ast-header-sticked' => array(
+				'z-index' => 9,
+			),
+			$above_header_sticky_selector              => array(
 				'background' => esc_attr( $desktop_sticky_above_header_bg_color ),
 			),
 			'.ast-header-break-point.ast-above-sticky-header-active .ast-above-header-section-separated .ast-above-header-navigation, .ast-header-break-point.ast-above-sticky-header-active .ast-above-header-section-separated .ast-above-header-navigation > ul' => array(

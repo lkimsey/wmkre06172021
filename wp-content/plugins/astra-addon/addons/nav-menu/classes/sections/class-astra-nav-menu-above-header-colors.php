@@ -116,7 +116,6 @@ if ( ! class_exists( 'Astra_Nav_Menu_Above_Header_Colors' ) ) {
 						'transport'  => 'postMessage',
 						'priority'   => 70,
 						'responsive' => false,
-						'divider'    => array( 'ast_class' => 'ast-bottom-divider' ),
 						'context'    => ( true === astra_addon_builder_helper()->is_header_footer_builder_active ) ?
 							astra_addon_builder_helper()->design_tab : astra_addon_builder_helper()->general_tab,
 					),

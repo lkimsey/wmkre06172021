@@ -497,7 +497,7 @@ if ( ! class_exists( 'StockpackQuery' ) ) {
 
             $mirror = wp_upload_bits( $name, '', wp_remote_retrieve_body( $get ) );
             $attachment = array(
-                'post_title'     => $name,
+                'post_title'     => $this->strip_extension($name),
                 'post_content'   => $description,
                 'post_excerpt'   => apply_filters( 'stockpack_caption', $this->support_caption_translation( $caption ), $image ),
                 'post_mime_type' => $type
@@ -549,6 +549,11 @@ if ( ! class_exists( 'StockpackQuery' ) ) {
 
             return $name[0] . '.' . $name[1];
 
+        }
+
+        private function strip_extension( $name ) {
+            $name = explode( '.', $name );
+            return $name[0];
         }
 
         private function mime2ext( $mime ) {

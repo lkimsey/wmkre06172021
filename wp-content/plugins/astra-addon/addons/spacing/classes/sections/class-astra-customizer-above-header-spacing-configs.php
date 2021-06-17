@@ -55,7 +55,6 @@ if ( ! class_exists( 'Astra_Customizer_Above_Header_Spacing_Configs' ) ) {
 					'transport'         => 'postMessage',
 					'section'           => 'section-above-header',
 					'priority'          => 160,
-					'divider'           => array( 'ast_class' => 'ast-top-divider' ),
 					'title'             => __( 'Header Space', 'astra-addon' ),
 					'context'           => array(
 						array(

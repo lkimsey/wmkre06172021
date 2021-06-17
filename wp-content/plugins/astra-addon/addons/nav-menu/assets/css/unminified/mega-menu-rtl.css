@@ -424,6 +424,27 @@
   background: transparent;
 }
 
+.ast-desktop .main-header-menu > .menu-item .astra-full-megamenu-wrapper:before {
+  position: absolute;
+  content: '';
+  top: 0;
+  right: 0;
+  width: 100%;
+  transform: translateY(-100%);
+}
+
+.ast-desktop .main-header-menu:not(#ast-hf-mobile-menu) .astra-full-megamenu-wrapper .sub-menu {
+  box-shadow: none;
+}
+
+.ast-desktop .main-header-menu:not(#ast-hf-mobile-menu) .astra-megamenu .sub-menu {
+  box-shadow: none;
+}
+
+.ast-desktop .main-header-menu:not(#ast-hf-mobile-menu) .astra-full-megamenu-wrapper {
+  box-shadow: 0 4px 10px -2px rgba(0, 0, 0, 0.1);
+}
+
 .ast-header-break-point .main-navigation .sub-menu .menu-item .ast-hide-menu-item,
 .ast-header-break-point .ast-above-header .sub-menu .menu-item .ast-hide-menu-item,
 .ast-header-break-point .ast-below-header .sub-menu .menu-item .ast-hide-menu-item {

@@ -46,7 +46,12 @@ if ( ! class_exists( 'Astra_Ext_Advanced_Hooks_Markup' ) ) {
 			add_action( 'wp', array( $this, 'load_advanced_hooks_template' ), 1 );
 			add_action( 'wp', array( $this, 'load_markup' ), 1 );
 			add_action( 'wp', array( $this, 'remove_navigation_markup' ), 1 );
-			add_action( 'wp', array( $this, 'load_ultimate_gutenberg_blocks_assets' ) );
+
+			if ( defined( 'UAGB_VER' ) && version_compare( preg_replace( '/[^0-9\.]/', '', UAGB_VER ), '1.23.0', '>=' ) ) {
+				add_action( 'wp_enqueue_scripts', array( $this, 'load_ultimate_gutenberg_blocks_assets' ) );
+			} else {
+				add_action( 'wp', array( $this, 'load_ultimate_gutenberg_blocks_assets' ) );
+			}
 			add_action( 'template_redirect', array( $this, 'advanced_hook_template_frontend' ) );
 			add_action( 'wp_enqueue_scripts', array( $this, 'add_styles' ) );
 			add_action( 'astra_advanced_hook_template', array( $this, 'template_empty_content' ) );

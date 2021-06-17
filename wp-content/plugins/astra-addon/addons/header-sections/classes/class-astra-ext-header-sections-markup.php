@@ -802,7 +802,7 @@ if ( ! class_exists( 'Astra_Ext_Header_Sections_Markup' ) ) {
 						'container_class' => 'ast-above-header-navigation navigation-accessibility',
 						'container_id'    => $above_header_menu_id,
 						'theme_location'  => 'above_header_menu',
-						'menu_id'         => 'above_header-menu',
+						'id'              => 'above_header-menu',
 						'menu_class'      => esc_attr( implode( ' ', $above_header_menu_classes ) ),
 						'items_wrap'      => '<ul id="%1$s" class="%2$s">%3$s</ul>',
 					)

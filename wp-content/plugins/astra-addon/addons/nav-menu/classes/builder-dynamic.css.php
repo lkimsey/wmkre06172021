@@ -45,7 +45,7 @@ function astra_ext_mega_menu_dynamic_css( $dynamic_css, $dynamic_css_filtered = 
 		);
 	} else {
 		$astra_font = array(
-			'.ast-header-break-point .menu-text + .icon-arrow, .ast-desktop .menu-link > .icon-arrow:first-child, .ast-header-break-point .main-header-menu > .menu-item > .menu-link .icon-arrow' => array(
+			'.ast-header-break-point .menu-text + .icon-arrow, .ast-desktop .menu-link > .icon-arrow:first-child, .ast-header-break-point .main-header-menu > .menu-item > .menu-link .icon-arrow, .ast-header-break-point .astra-mm-highlight-label + .icon-arrow' => array(
 				'display' => 'none',
 			),
 		);

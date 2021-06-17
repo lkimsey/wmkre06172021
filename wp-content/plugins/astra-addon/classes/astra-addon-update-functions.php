@@ -254,3 +254,21 @@ function astra_addon_header_css_optimizations() {
 function astra_addon_clear_assets_cache() {
 	Astra_Minify::refresh_assets();
 }
+
+/**
+ * Page Header's color options compatibility with new Header builder layout.
+ *
+ * @since 3.5.0
+ * @return void
+ */
+function astra_addon_page_headers_support_to_builder_layout() {
+
+	$theme_options = get_option( 'astra-settings' );
+
+	if ( ! isset( $theme_options['can-update-page-header-compatibility-to-header-builder'] ) ) {
+		// Set a flag to avoid direct changes on frontend.
+		$theme_options['can-update-page-header-compatibility-to-header-builder'] = true;
+	}
+
+	update_option( 'astra-settings', $theme_options );
+}

@@ -48,6 +48,7 @@ if ( ! class_exists( 'Astra_Nav_Menu_Above_Header_Typography' ) ) {
 					'control'   => 'ast-settings-group',
 					'title'     => __( 'Mega Menu Column Heading', 'astra-addon' ),
 					'section'   => 'section-above-header',
+					'divider'   => array( 'ast_class' => 'ast-bottom-divider' ),
 					'transport' => 'postMessage',
 					'priority'  => 132,
 					'context'   => array(

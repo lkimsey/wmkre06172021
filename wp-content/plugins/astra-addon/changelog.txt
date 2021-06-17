@@ -1,3 +1,17 @@
+v3.5.0
+- Improvement: Frontend optimization by reducing static CSS and loading it conditionally. (https://wpastra.com/astra-3-5/)
+- Fix: Version compare updated to v3.5.0 to support Site Title & Tagline pro color controls dependency.
+
+v3.5.0-beta.1
+- Improvement: Added compatibility for upcoming 'Ultimate addons for Gutenberg' plugin version 1.23.0 and above.
+- Improvement: Separate out options for outside item color controls in sticky header.
+- Improvement: Separate out options for outside item color controls in sticky header.
+- Fix: Builder - WooCommerce cart - Empty icons visible along with SVG icons in builder cart element.
+- Fix: Spacing options visible in Single Post customizer section even though Spacing addon is disabled.
+- Fix: Removed unwanted dividers from customizer setting sections.
+- Fix: Builder - Menu - Arrow icon visible aside to Mega Menu Highlight text.
+- Fix: JS console error on click of WooCommerce Off-Canvas close icon.
+
 v3.4.2
 - New: Builder - WooCommerce & EDD Cart - Border width option for cart outline style. (https://wpastra.com/docs/remove-border-around-cart/)
 - Fix: WooCommerce - Grid column layout not working for upsell products.

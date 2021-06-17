@@ -2,8 +2,8 @@
 Contributors: ionut.calara
 Tags: stock images, adobe stock, unsplash, getty, istock, pixabay, pexels
 Requires at least: 4.6
-Tested up to: 5.7.1
-Stable tag: 3.2.9
+Tested up to: 5.7.2
+Stable tag: 3.3.0
 License: GPL
 License URI: https://www.gnu.org/licenses/gpl-3.0.en.html
 
@@ -132,6 +132,9 @@ There are some providers like unsplash and pixabay which allow you to use the im
 1. Open media library and go to the StockPack tab as highlighted in the first screenshot
 
 == Changelog ==
+
+= 3.3.0 =
+Fix extension being added to the attachment title
 
 = 3.2.9 =
 Fix CSS compatibility issue with Elementor Update

@@ -45,7 +45,6 @@ if ( ! class_exists( 'Astra_Advanced_Footer_Configs' ) ) {
 					'default'           => astra_get_option( 'footer-adv' ),
 					'type'              => 'control',
 					'priority'          => 0,
-					'divider'           => array( 'ast_class' => 'ast-bottom-divider' ),
 					'control'           => 'ast-radio-image',
 					'sanitize_callback' => array( 'Astra_Customizer_Sanitizes', 'sanitize_choices' ),
 					'title'             => __( 'Layout', 'astra-addon' ),
@@ -110,6 +109,7 @@ if ( ! class_exists( 'Astra_Advanced_Footer_Configs' ) ) {
 							'value'    => 'disabled',
 						),
 					),
+					'divider'  => array( 'ast_class' => 'ast-top-divider' ),
 				),
 
 				/**

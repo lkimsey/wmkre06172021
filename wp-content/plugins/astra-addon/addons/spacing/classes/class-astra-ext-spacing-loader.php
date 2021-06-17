@@ -637,6 +637,7 @@ if ( ! class_exists( 'Astra_Ext_Spacing_Loader' ) ) {
 			}
 			require_once ASTRA_EXT_SPACING_DIR . 'classes/sections/class-astra-customizer-sidebar-spacing-configs.php';
 			require_once ASTRA_EXT_SPACING_DIR . 'classes/sections/class-astra-customizer-blog-spacing-configs.php';
+			require_once ASTRA_EXT_SPACING_DIR . 'classes/sections/class-astra-customizer-single-post-spacing-configs.php';
 		}
 
 		/**

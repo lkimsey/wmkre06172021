@@ -380,7 +380,7 @@ function astra_woocommerce_dynamic_css( $dynamic_css, $dynamic_css_filtered = ''
 	/**
 	 * Header Cart color
 	 */
-	if ( 'none' != $header_cart_icon_style ) {
+	if ( 'none' !== $header_cart_icon_style ) {
 
 		$header_cart_icon = array();
 
